@@ -1260,9 +1260,9 @@ Greenland,2014,107.838,66.7,37333,Europe
 Greenland,2015,108.2,67.6,37799,Europe
 Greenland,2016,108.2,67.6,37799,Europe
 Greenland,2017,110.338,69.482,38876,Europe
-Greenland,2018,108.539,0,0,Europe
-Greenland,2019,108.794,0,0,Europe
-Greenland,2020,116.185,0,0,Europe
+Greenland,2018,108.539,69.482,38876,Europe
+Greenland,2019,108.794,69.482,38876,Europe
+Greenland,2020,116.185,69.482,38876,Europe
 Grenada,2005,44.771,20.488,22591,South/Latin America
 Grenada,2006,44.021,21.396,23751,South/Latin America
 Grenada,2007,48.846,22.29,24907,South/Latin America
@@ -1341,8 +1341,8 @@ Guyana,2015,70.703,34,256715,South/Latin America
 Guyana,2016,75.795,35.66,270694,South/Latin America
 Guyana,2017,82.971,37.326,284895,South/Latin America
 Guyana,2018,82.971,37.326,284895,South/Latin America
-Guyana,2019,99.391,0,0,South/Latin America
-Guyana,2020,108.829,0,0,South/Latin America
+Guyana,2019,99.391,37.326,284895,South/Latin America
+Guyana,2020,108.829,37.326,284895,South/Latin America
 Haiti,2005,5.44,6.376,580993,South/Latin America
 Haiti,2006,12.841,6.796,629737,South/Latin America
 Haiti,2007,26.329,7.2,678300,South/Latin America
@@ -1502,7 +1502,7 @@ Iraq,2016,91.359,37.67,14577513,Middle east
 Iraq,2017,88.983,41.94,16617112,Middle east
 Iraq,2018,95.04,43.3,17575773,Middle east
 Iraq,2019,94.696,60,24938114,Middle east
-Iraq,2020,93.17,0,0,Middle east
+Iraq,2020,93.17,60,24938114,Middle east
 Ireland,2005,103.11,41.61,1714840,Europe
 Ireland,2006,110.862,54.82,2321522,Europe
 Ireland,2007,114.939,61.158,2666406,Europe
@@ -1597,8 +1597,8 @@ Jordan,2015,148.9,54.22,5147782,Middle east
 Jordan,2016,102.765,56.15,5595156,Middle east
 Jordan,2017,99.156,64.5,6588923,Middle east
 Jordan,2018,87.621,66.1,6913970,Middle east
-Jordan,2019,77.005,0,0,Middle east
-Jordan,2020,68.488,0,0,Middle east
+Jordan,2019,77.005,66.1,6913970,Middle east
+Jordan,2020,68.488,66.1,6913970,Middle east
 Kazakhstan,2005,35.046,2.962,463692,Asia & Pacific
 Kazakhstan,2006,50.001,3.268,517146,Asia & Pacific
 Kazakhstan,2007,78.478,4.02,643447,Asia & Pacific
@@ -3343,22 +3343,22 @@ United Kingdom,2017,118.54,90.425,59738807,Europe
 United Kingdom,2018,117.499,90.692,60249419,Europe
 United Kingdom,2019,118.235,92.517,61781367,Europe
 United Kingdom,2020,116.382,94.818,63584584,Europe
-United States,2005,69.052,67.968,201758182,North America
-United States,2006,77.109,68.931,206623372,North America
-United States,2007,82.932,75,227057544,North America
-United States,2008,86.1,74,226214235,North America
-United States,2009,89.545,71,219043543,North America
-United States,2010,92.268,71.69,223086991,North America
-United States,2011,95.449,69.729,218864469,North America
-United States,2012,97.069,74.7,236538532,North America
-United States,2013,98.198,71.4,228033875,North America
-United States,2014,111.556,73,235084785,North America
-United States,2015,119.144,74.554,242008728,North America
-United States,2016,122.595,85.544,279910069,North America
-United States,2017,123.045,87.275,287824925,North America
-United States,2018,106.465,88.499,293940279,North America
-United States,2019,108.093,89.43,298983035,North America
-United States,2020,106.186,90.9,305371298,North America
+United States of America,2005,69.052,67.968,201758182,North America
+United States of America,2006,77.109,68.931,206623372,North America
+United States of America,2007,82.932,75,227057544,North America
+United States of America,2008,86.1,74,226214235,North America
+United States of America,2009,89.545,71,219043543,North America
+United States of America,2010,92.268,71.69,223086991,North America
+United States of America,2011,95.449,69.729,218864469,North America
+United States of America,2012,97.069,74.7,236538532,North America
+United States of America,2013,98.198,71.4,228033875,North America
+United States of America,2014,111.556,73,235084785,North America
+United States of America,2015,119.144,74.554,242008728,North America
+United States of America,2016,122.595,85.544,279910069,North America
+United States of America,2017,123.045,87.275,287824925,North America
+United States of America,2018,106.465,88.499,293940279,North America
+United States of America,2019,108.093,89.43,298983035,North America
+United States of America,2020,106.186,90.9,305371298,North America
 Upper middle income,2005,39.243,11.622,0,Other
 Upper middle income,2006,47.602,14.196,0,Other
 Upper middle income,2007,56.838,18.994,0,Other
@@ -3436,9 +3436,9 @@ Venezuela,2014,101.615,57,17210158,South/Latin America
 Venezuela,2015,96.715,58,17707239,South/Latin America
 Venezuela,2016,92.461,60,18444878,South/Latin America
 Venezuela,2017,83.305,61.6,18827072,South/Latin America
-Venezuela,2018,71.766,0,0,South/Latin America
-Venezuela,2019,64.793,0,0,South/Latin America
-Venezuela,2020,58.179,0,0,South/Latin America
+Venezuela,2018,71.766,61.6,18827072,South/Latin America
+Venezuela,2019,64.793,61.6,18827072,South/Latin America
+Venezuela,2020,58.179,61.6,18827072,South/Latin America
 Vietnam,2005,11.443,12.74,10592244,Asia & Pacific
 Vietnam,2006,22.327,17.255,14485516,Asia & Pacific
 Vietnam,2007,52.709,20.755,17592787,Asia & Pacific
