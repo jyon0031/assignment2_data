@@ -1227,10 +1227,10 @@ Gibraltar,2013,103.281,65.017,20924,Europe,61
 Gibraltar,2014,112.676,0,0,Europe,213
 Gibraltar,2015,122.839,0,0,Europe,212
 Gibraltar,2016,121.931,94.444,30779,Europe,12
-Gibraltar,2017,121.664,0,0,Europe,215
-Gibraltar,2018,121.73,0,0,Europe,186
-Gibraltar,2019,120.284,0,0,Europe,172
-Gibraltar,2020,105.185,0,0,Europe,167
+Gibraltar,2017,121.664,94.444,30779,Europe,215
+Gibraltar,2018,121.73,94.444,30779,Europe,186
+Gibraltar,2019,120.284,94.444,30779,Europe,172
+Gibraltar,2020,105.185,94.444,30779,Europe,167
 Greece,2005,91.408,24,2667228,Europe,70
 Greece,2006,98.164,32.25,3581716,Europe,60
 Greece,2007,110.562,35.88,3979627,Europe,62
@@ -1260,9 +1260,9 @@ Greenland,2014,107.838,66.7,37333,Europe,64
 Greenland,2015,108.2,67.6,37799,Europe,71
 Greenland,2016,108.2,67.6,37799,Europe,78
 Greenland,2017,110.338,69.482,38876,Europe,78
-Greenland,2018,108.539,0,0,Europe,186
-Greenland,2019,108.794,0,0,Europe,172
-Greenland,2020,116.185,0,0,Europe,167
+Greenland,2018,108.539,69.482,38876,Europe,186
+Greenland,2019,108.794,69.482,38876,Europe,172
+Greenland,2020,116.185,69.482,38876,Europe,167
 Grenada,2005,44.771,20.488,22591,South/Latin America,79
 Grenada,2006,44.021,21.396,23751,South/Latin America,82
 Grenada,2007,48.846,22.29,24907,South/Latin America,88
@@ -1341,8 +1341,8 @@ Guyana,2015,70.703,34,256715,South/Latin America,134
 Guyana,2016,75.795,35.66,270694,South/Latin America,138
 Guyana,2017,82.971,37.326,284895,South/Latin America,143
 Guyana,2018,82.971,37.326,284895,South/Latin America,133
-Guyana,2019,99.391,0,0,South/Latin America,172
-Guyana,2020,108.829,0,0,South/Latin America,167
+Guyana,2019,99.391,37.326,284895,South/Latin America,172
+Guyana,2020,108.829,37.326,284895,South/Latin America,167
 Haiti,2005,5.44,6.376,580993,South/Latin America,126
 Haiti,2006,12.841,6.796,629737,South/Latin America,134
 Haiti,2007,26.329,7.2,678300,South/Latin America,139
@@ -1678,7 +1678,7 @@ Kyrgyzstan,2016,125.339,34.5,2076315,Asia & Pacific,141
 Kyrgyzstan,2017,136.807,38.199,2338265,Asia & Pacific,139
 Kyrgyzstan,2018,138.566,42.8,2663659,Asia & Pacific,125
 Kyrgyzstan,2019,134.395,51,3225058,Asia & Pacific,111
-Kyrgyzstan,2020,130.453,0,0,Asia & Pacific,167
+Kyrgyzstan,2020,130.453,51,3225058,Asia & Pacific,167
 Laos,2005,11.432,0.85,49771,Asia & Pacific,189
 Laos,2006,17.269,1.17,69569,Asia & Pacific,187
 Laos,2007,24.868,1.64,99078,Asia & Pacific,188
@@ -1785,12 +1785,12 @@ Libya,2011,160.066,14,866339,Middle east,147
 Libya,2012,152.52,15.2,892222,Middle east,150
 Libya,2013,161.942,16.5,987563,Middle east,149
 Libya,2014,133.559,17.76,1082963,Middle east,155
-Libya,2015,151.864,0,0,Middle east,212
-Libya,2016,117.989,0,0,Middle east,216
-Libya,2017,91.479,0,0,Middle east,215
-Libya,2018,91.479,0,0,Middle east,186
-Libya,2019,54.858,0,0,Middle east,172
-Libya,2020,42.525,0,0,Middle east,167
+Libya,2015,151.864,17.76,1082963,Middle east,212
+Libya,2016,117.989,17.76,1082963,Middle east,216
+Libya,2017,91.479,17.76,1082963,Middle east,215
+Libya,2018,91.479,17.76,1082963,Middle east,186
+Libya,2019,54.858,17.76,1082963,Middle east,172
+Libya,2020,42.525,17.76,1082963,Middle east,167
 Liechtenstein,2005,79.23,63.371,21944,Europe,18
 Liechtenstein,2006,82.228,64.214,22420,Europe,20
 Liechtenstein,2007,90.902,65.08,22895,Europe,26
@@ -1917,8 +1917,8 @@ Madagascar,2015,44.127,4.174,1037270,Africa,203
 Madagascar,2016,32.129,4.714,1202076,Africa,209
 Madagascar,2017,34.143,9.8,2564615,Africa,202
 Madagascar,2018,40.57,15,4026982,Africa,174
-Madagascar,2019,48.214,0,0,Africa,172
-Madagascar,2020,57.307,0,0,Africa,167
+Madagascar,2019,48.214,15,4026982,Africa,172
+Madagascar,2020,57.307,15,4026982,Africa,167
 Malawi,2005,3.336,0.384,49044,Africa,200
 Malawi,2006,4.78,0.425,55771,Africa,203
 Malawi,2007,7.876,0.966,130348,Africa,197
@@ -2317,8 +2317,8 @@ Niger,2015,44.791,2.476,498417,Africa,208
 Niger,2016,35.941,4.323,904397,Africa,210
 Niger,2017,40.639,10.224,2222553,Africa,201
 Niger,2018,40.639,10.224,2222553,Africa,179
-Niger,2019,51.989,0,0,Africa,172
-Niger,2020,58.823,0,0,Africa,167
+Niger,2019,51.989,10.224,2222553,Africa,172
+Niger,2020,58.823,10.224,2222553,Africa,167
 Nigeria,2005,13.385,3.549,4986234,Africa,153
 Nigeria,2006,22.676,5.545,8003138,Africa,144
 Nigeria,2007,27.604,6.77,10039506,Africa,145
@@ -2492,9 +2492,9 @@ Papua New Guinea,2014,42.268,6.5,550170,Asia & Pacific,192
 Papua New Guinea,2015,43.908,7.9,685892,Asia & Pacific,194
 Papua New Guinea,2016,45.722,9.602,854458,Asia & Pacific,201
 Papua New Guinea,2017,47.618,11.209,1021696,Asia & Pacific,200
-Papua New Guinea,2018,49.963,0,0,Asia & Pacific,186
-Papua New Guinea,2019,51.674,0,0,Asia & Pacific,172
-Papua New Guinea,2020,53.85,0,0,Asia & Pacific,167
+Papua New Guinea,2018,49.963,11.209,1021696,Asia & Pacific,186
+Papua New Guinea,2019,51.674,11.209,1021696,Asia & Pacific,172
+Papua New Guinea,2020,53.85,11.209,1021696,Asia & Pacific,167
 Paraguay,2005,32.4,7.907,433057,South/Latin America,118
 Paraguay,2006,54.672,7.962,440675,South/Latin America,126
 Paraguay,2007,78.26,11.21,626656,South/Latin America,123
@@ -3260,9 +3260,9 @@ Turkmenistan,2014,131.827,12.2,690905,Asia & Pacific,175
 Turkmenistan,2015,140.909,14.997,864778,Asia & Pacific,174
 Turkmenistan,2016,151.438,17.99,1055774,Asia & Pacific,178
 Turkmenistan,2017,162.861,21.251,1268342,Asia & Pacific,178
-Turkmenistan,2018,160.266,0,0,Asia & Pacific,186
-Turkmenistan,2019,157.806,0,0,Asia & Pacific,172
-Turkmenistan,2020,155.475,0,0,Asia & Pacific,167
+Turkmenistan,2018,160.266,21.251,1268342,Asia & Pacific,186
+Turkmenistan,2019,157.806,21.251,1268342,Asia & Pacific,172
+Turkmenistan,2020,155.475,21.251,1268342,Asia & Pacific,167
 Tuvalu,2005,13,8.3,824,Asia & Pacific,115
 Tuvalu,2006,15.81,9.1,915,Asia & Pacific,120
 Tuvalu,2007,17.611,10,1017,Asia & Pacific,128
@@ -3468,9 +3468,9 @@ Yemen,2014,66.219,22.55,6258371,Middle east,145
 Yemen,2015,56.691,24.085,6868328,Middle east,149
 Yemen,2016,60.486,24.579,7195320,Middle east,159
 Yemen,2017,55.175,26.718,8024694,Middle east,160
-Yemen,2018,53.679,0,0,Middle east,186
-Yemen,2019,52.253,0,0,Middle east,172
-Yemen,2020,50.889,0,0,Middle east,167
+Yemen,2018,53.679,26.718,8024694,Middle east,186
+Yemen,2019,52.253,26.718,8024694,Middle east,172
+Yemen,2020,50.889,26.718,8024694,Middle east,167
 Zambia,2005,8.009,1.3,150343,Africa,174
 Zambia,2006,13.663,1.6,191545,Africa,178
 Zambia,2007,21.107,1.9,235639,Africa,181
