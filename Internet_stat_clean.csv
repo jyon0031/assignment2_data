@@ -9,12 +9,12 @@
 "Afghanistan",2012,49.228,5.455,1661808,"Asia & Pacific",183
 "Afghanistan",2013,52.084,5.9,1860932,"Asia & Pacific",186
 "Afghanistan",2014,55.16,7,2290135,"Asia & Pacific",188
-"Afghanistan",2015,57.271,8.26,2788039,"Asia & Pacific",192
-"Afghanistan",2016,61.055,11,3809983,"Asia & Pacific",199
-"Afghanistan",2017,65.929,13.5,4811862,"Asia & Pacific",195
-"Afghanistan",2018,59.121,16.8,6163380,"Asia & Pacific",167
-"Afghanistan",2019,59.356,17.6,6647431,"Asia & Pacific",160
-"Afghanistan",2020,58.256,18.4,7170891,"Asia & Pacific",158
+"Afghanistan",2015,57.271,8.26,2788039,"Asia & Pacific",193
+"Afghanistan",2016,61.055,11,3809983,"Asia & Pacific",200
+"Afghanistan",2017,65.929,13.5,4811862,"Asia & Pacific",196
+"Afghanistan",2018,59.121,16.8,6163380,"Asia & Pacific",173
+"Afghanistan",2019,59.356,17.6,6647431,"Asia & Pacific",167
+"Afghanistan",2020,58.256,18.4,7170891,"Asia & Pacific",166
 "Albania",2005,49.574,6.044,183289,"Europe",130
 "Albania",2006,62.353,9.61,288626,"Europe",117
 "Albania",2007,76.547,15.036,447488,"Europe",113
@@ -28,8 +28,8 @@
 "Albania",2015,117.659,56.9,1640132,"Europe",87
 "Albania",2016,116.744,59.6,1717114,"Europe",92
 "Albania",2017,125.71,62.4,1796721,"Europe",95
-"Albania",2018,94.177,65.4,1881570,"Europe",84
-"Albania",2019,91.293,68.55,1970058,"Europe",83
+"Albania",2018,94.177,65.4,1881570,"Europe",85
+"Albania",2019,91.293,68.55,1970058,"Europe",84
 "Albania",2020,91.003,72.24,2071012,"Europe",82
 "Algeria",2005,41.211,5.844,1925970,"Arab States",132
 "Algeria",2006,62.418,7.376,2466167,"Arab States",131
@@ -44,9 +44,9 @@
 "Algeria",2015,108.809,38.2,15105483,"Arab States",127
 "Algeria",2016,116.004,42.946,17323937,"Arab States",129
 "Algeria",2017,110.767,47.691,19618454,"Arab States",127
-"Algeria",2018,111.665,49.038,20560362,"Arab States",115
-"Algeria",2019,105.511,57.9,24726411,"Arab States",105
-"Algeria",2020,103.887,62.9,27331100,"Arab States",102
+"Algeria",2018,111.665,49.038,20560362,"Arab States",117
+"Algeria",2019,105.511,57.9,24726411,"Arab States",107
+"Algeria",2020,103.887,62.9,27331100,"Arab States",103
 "Andorra",2005,81.859,37.606,30026,"Europe",46
 "Andorra",2006,85.197,48.937,39267,"Europe",39
 "Andorra",2007,76.802,70.87,55411,"Europe",18
@@ -60,9 +60,9 @@
 "Andorra",2015,91.444,87.9,63082,"Europe",20
 "Andorra",2016,98.493,89.7,65089,"Europe",19
 "Andorra",2017,104.332,91.567,67625,"Europe",20
-"Andorra",2018,107.283,0,0,"Europe",186
-"Andorra",2019,113.957,0,0,"Europe",172
-"Andorra",2020,121.659,0,0,"Europe",167
+"Andorra",2018,107.283,0,0,"Europe",194
+"Andorra",2019,113.957,0,0,"Europe",183
+"Andorra",2020,121.659,0,0,"Europe",180
 "Angola",2005,8.29,1.143,222396,"Africa",179
 "Angola",2006,15.159,1.5,302435,"Africa",181
 "Angola",2007,23.733,1.7,355465,"Africa",187
@@ -76,9 +76,9 @@
 "Angola",2015,49.793,22,6188099,"Africa",156
 "Angola",2016,45.076,23.2,6763900,"Africa",165
 "Angola",2017,44.686,26,7854245,"Africa",163
-"Angola",2018,43.131,29,9069326,"Africa",148
-"Angola",2019,46.599,32.4,10482564,"Africa",137
-"Angola",2020,44.56,36,12034256,"Africa",130
+"Angola",2018,43.131,29,9069326,"Africa",151
+"Angola",2019,46.599,32.4,10482564,"Africa",141
+"Angola",2020,44.56,36,12034256,"Africa",135
 "Antigua and Barbuda",2005,105.567,27,21567,"South/Latin America",61
 "Antigua and Barbuda",2006,133.218,30,24273,"South/Latin America",62
 "Antigua and Barbuda",2007,133.746,34,27892,"South/Latin America",65
@@ -91,10 +91,10 @@
 "Antigua and Barbuda",2014,129.687,67.78,60495,"South/Latin America",62
 "Antigua and Barbuda",2015,188.103,70,62971,"South/Latin America",63
 "Antigua and Barbuda",2016,190.422,73,66120,"South/Latin America",65
-"Antigua and Barbuda",2017,192.82,0,0,"South/Latin America",215
-"Antigua and Barbuda",2018,189.46,0,0,"South/Latin America",186
-"Antigua and Barbuda",2019,189.46,0,0,"South/Latin America",172
-"Antigua and Barbuda",2020,187.891,0,0,"South/Latin America",167
+"Antigua and Barbuda",2017,192.82,0,0,"South/Latin America",216
+"Antigua and Barbuda",2018,189.46,0,0,"South/Latin America",194
+"Antigua and Barbuda",2019,189.46,0,0,"South/Latin America",183
+"Antigua and Barbuda",2020,187.891,0,0,"South/Latin America",180
 "Argentina",2005,56.968,17.721,6923521,"South/Latin America",82
 "Argentina",2006,80.2,20.927,8261401,"South/Latin America",83
 "Argentina",2007,101.808,25.947,10346509,"South/Latin America",83
@@ -124,8 +124,8 @@
 "Armenia",2015,118.422,59.101,1701275,"Europe",81
 "Armenia",2016,116.975,64.346,1844055,"Europe",83
 "Armenia",2017,118.464,64.745,1846478,"Europe",86
-"Armenia",2018,121.259,68.245,1935814,"Europe",79
-"Armenia",2019,122.349,66.544,1876941,"Europe",91
+"Armenia",2018,121.259,68.245,1935814,"Europe",80
+"Armenia",2019,122.349,66.544,1876941,"Europe",92
 "Armenia",2020,117.736,76.51,2146572,"Europe",73
 "Aruba",2005,103.385,25.4,24002,"South/Latin America",66
 "Aruba",2006,108.128,28,26774,"South/Latin America",70
@@ -141,8 +141,8 @@
 "Aruba",2016,135.134,88.661,92446,"South/Latin America",22
 "Aruba",2017,135.134,88.661,92446,"South/Latin America",24
 "Aruba",2018,135.134,88.661,92446,"South/Latin America",24
-"Aruba",2019,132.626,0,0,"South/Latin America",172
-"Aruba",2020,132.065,0,0,"South/Latin America",167
+"Aruba",2019,132.626,0,0,"South/Latin America",183
+"Aruba",2020,132.065,0,0,"South/Latin America",180
 "Australia",2005,91.285,63,12708191,"Asia & Pacific",19
 "Australia",2006,96.267,66,13508241,"Asia & Pacific",19
 "Australia",2007,101.643,69.45,14467012,"Asia & Pacific",21
@@ -233,12 +233,12 @@
 "Bangladesh",2012,64.355,5,7604533,"Asia & Pacific",184
 "Bangladesh",2013,76.297,6.63,10212199,"Asia & Pacific",180
 "Bangladesh",2014,82.105,11.9,18559396,"Asia & Pacific",176
-"Bangladesh",2015,84.077,12.9,20360069,"Asia & Pacific",180
+"Bangladesh",2015,84.077,12.9,20360069,"Asia & Pacific",181
 "Bangladesh",2016,86.077,18.1,28921009,"Asia & Pacific",177
 "Bangladesh",2017,94.526,19.8,32035204,"Asia & Pacific",180
-"Bangladesh",2018,100.245,21.8,35683100,"Asia & Pacific",158
-"Bangladesh",2019,101.549,23.8,39392860,"Asia & Pacific",149
-"Bangladesh",2020,107.038,24.8,41520393,"Asia & Pacific",149
+"Bangladesh",2018,100.245,21.8,35683100,"Asia & Pacific",162
+"Bangladesh",2019,101.549,23.8,39392860,"Asia & Pacific",154
+"Bangladesh",2020,107.038,24.8,41520393,"Asia & Pacific",156
 "Barbados",2005,74.619,52.5,141482,"South/Latin America",30
 "Barbados",2006,85.455,55.3,149551,"South/Latin America",30
 "Barbados",2007,92.428,58.2,157990,"South/Latin America",36
@@ -252,9 +252,9 @@
 "Barbados",2015,117.337,76.11,211658,"South/Latin America",44
 "Barbados",2016,116.24,79.549,221672,"South/Latin America",44
 "Barbados",2017,115.139,81.761,228275,"South/Latin America",40
-"Barbados",2018,114.891,0,0,"South/Latin America",186
-"Barbados",2019,114.738,0,0,"South/Latin America",172
-"Barbados",2020,102.653,0,0,"South/Latin America",167
+"Barbados",2018,114.891,0,0,"South/Latin America",194
+"Barbados",2019,114.738,0,0,"South/Latin America",183
+"Barbados",2020,102.653,0,0,"South/Latin America",180
 "Belarus",2005,42.872,0,0,"Europe",210
 "Belarus",2006,62.626,16.2,1599701,"Europe",99
 "Belarus",2007,73.414,19.7,1935720,"Europe",102
@@ -300,9 +300,9 @@
 "Belize",2015,58.722,41.59,149676,"South/Latin America",122
 "Belize",2016,60.512,44.576,163739,"South/Latin America",125
 "Belize",2017,63.72,47.083,176420,"South/Latin America",128
-"Belize",2018,64.299,49.8,190274,"South/Latin America",113
-"Belize",2019,65.305,50.8,197664,"South/Latin America",112
-"Belize",2020,66.394,0,0,"South/Latin America",167
+"Belize",2018,64.299,49.8,190274,"South/Latin America",115
+"Belize",2019,65.305,50.8,197664,"South/Latin America",114
+"Belize",2020,66.394,0,0,"South/Latin America",180
 "Benin",2005,7.47,1.271,103582,"Africa",176
 "Benin",2006,12.848,1.538,129220,"Africa",179
 "Benin",2007,24.268,1.79,154795,"Africa",186
@@ -313,12 +313,12 @@
 "Benin",2012,86.418,4.5,450634,"Africa",190
 "Benin",2013,96.23,4.9,505128,"Africa",193
 "Benin",2014,84.189,6,636891,"Africa",196
-"Benin",2015,88.105,11.255,1230484,"Africa",182
-"Benin",2016,81.792,14.5,1632713,"Africa",187
+"Benin",2015,88.105,11.255,1230484,"Africa",183
+"Benin",2016,81.792,14.5,1632713,"Africa",188
 "Benin",2017,78.505,18.7,2168599,"Africa",182
-"Benin",2018,82.384,19,2268731,"Africa",163
-"Benin",2019,87.702,22.4,2753059,"Africa",152
-"Benin",2020,91.897,25.8,3261925,"Africa",146
+"Benin",2018,82.384,19,2268731,"Africa",168
+"Benin",2019,87.702,22.4,2753059,"Africa",157
+"Benin",2020,91.897,25.8,3261925,"Africa",153
 "Bermuda",2005,79.569,65.447,41219,"South/Latin America",17
 "Bermuda",2006,90.72,69.9,44104,"South/Latin America",12
 "Bermuda",2007,104.342,74.351,46975,"South/Latin America",15
@@ -333,8 +333,8 @@
 "Bermuda",2016,100.835,98,61828,"South/Latin America",4
 "Bermuda",2017,103.09,98.37,62263,"South/Latin America",2
 "Bermuda",2018,103.09,98.37,62263,"South/Latin America",6
-"Bermuda",2019,107.19,0,0,"South/Latin America",172
-"Bermuda",2020,109.188,0,0,"South/Latin America",167
+"Bermuda",2019,107.19,0,0,"South/Latin America",183
+"Bermuda",2020,109.188,0,0,"South/Latin America",180
 "Bhutan",2005,5.549,3.847,25519,"Asia & Pacific",147
 "Bhutan",2006,12.485,4.518,30421,"Asia & Pacific",150
 "Bhutan",2007,22.476,5.92,40352,"Asia & Pacific",152
@@ -348,9 +348,9 @@
 "Bhutan",2015,92.838,39.8,295827,"Asia & Pacific",124
 "Bhutan",2016,94.796,41.773,313196,"Asia & Pacific",130
 "Bhutan",2017,97.996,46.2,349332,"Asia & Pacific",129
-"Bhutan",2018,93.262,49.5,377241,"Asia & Pacific",114
-"Bhutan",2019,95.564,53.5,410595,"Asia & Pacific",108
-"Bhutan",2020,96.569,53.5,413294,"Asia & Pacific",113
+"Bhutan",2018,93.262,49.5,377241,"Asia & Pacific",116
+"Bhutan",2019,95.564,53.5,410595,"Asia & Pacific",110
+"Bhutan",2020,96.569,53.5,413294,"Asia & Pacific",116
 "Bolivia",2005,26.227,5.228,490211,"South/Latin America",138
 "Bolivia",2006,30.612,6.201,591709,"South/Latin America",138
 "Bolivia",2007,34.048,10.499,1019598,"South/Latin America",127
@@ -364,9 +364,9 @@
 "Bolivia",2015,93.497,37.49,4157675,"South/Latin America",129
 "Bolivia",2016,91.61,39.698,4471137,"South/Latin America",133
 "Bolivia",2017,97.948,43.832,5012455,"South/Latin America",132
-"Bolivia",2018,100.816,44.286,5140251,"South/Latin America",120
-"Bolivia",2019,101.526,47.475,5591260,"South/Latin America",117
-"Bolivia",2020,101.125,59.94,7154552,"South/Latin America",105
+"Bolivia",2018,100.816,44.286,5140251,"South/Latin America",122
+"Bolivia",2019,101.526,47.475,5591260,"South/Latin America",119
+"Bolivia",2020,101.125,59.94,7154552,"South/Latin America",108
 "Bosnia and Herzegovina",2005,42.343,21.327,873178,"Europe",76
 "Bosnia and Herzegovina",2006,50.136,25.122,1019488,"Europe",76
 "Bosnia and Herzegovina",2007,65.123,27.92,1118999,"Europe",79
@@ -396,9 +396,9 @@
 "Botswana",2015,163.875,37.312,860109,"Africa",130
 "Botswana",2016,152.273,39.363,925983,"Africa",134
 "Botswana",2017,146.96,41.414,994696,"Africa",135
-"Botswana",2018,150.006,58,1421818,"Africa",104
-"Botswana",2019,162.641,61,1524820,"Africa",100
-"Botswana",2020,162.841,64,1629699,"Africa",100
+"Botswana",2018,150.006,58,1421818,"Africa",106
+"Botswana",2019,162.641,61,1524820,"Africa",102
+"Botswana",2020,162.841,64,1629699,"Africa",101
 "Brazil",2005,46.318,21.023,39269933,"South/Latin America",78
 "Brazil",2006,53.101,28.178,53206613,"South/Latin America",69
 "Brazil",2007,63.63,30.88,58912694,"South/Latin America",72
@@ -425,12 +425,12 @@
 "British Virgin Islands",2012,169.993,37.6,10693,"Other",106
 "British Virgin Islands",2013,185.135,0,0,"Other",213
 "British Virgin Islands",2014,188.913,0,0,"Other",213
-"British Virgin Islands",2015,196.196,0,0,"Other",212
+"British Virgin Islands",2015,196.196,0,0,"Other",213
 "British Virgin Islands",2016,135.204,77.701,23126,"Other",51
 "British Virgin Islands",2017,148.91,77.704,23377,"Other",57
-"British Virgin Islands",2018,134.065,0,0,"Other",186
-"British Virgin Islands",2019,131.648,0,0,"Other",172
-"British Virgin Islands",2020,116.314,0,0,"Other",167
+"British Virgin Islands",2018,134.065,0,0,"Other",194
+"British Virgin Islands",2019,131.648,0,0,"Other",183
+"British Virgin Islands",2020,116.314,0,0,"Other",180
 "Brunei",2005,63.788,36.466,133732,"Asia & Pacific",47
 "Brunei",2006,81.402,42.186,157277,"Asia & Pacific",48
 "Brunei",2007,97.646,44.68,169230,"Asia & Pacific",50
@@ -460,8 +460,8 @@
 "Bulgaria",2015,127.708,56.656,4141150,"Europe",89
 "Bulgaria",2016,125.474,59.826,4334948,"Europe",91
 "Bulgaria",2017,120.14,63.41,4554386,"Europe",92
-"Bulgaria",2018,118.94,64.782,4610811,"Europe",87
-"Bulgaria",2019,116.206,67.947,4791985,"Europe",87
+"Bulgaria",2018,118.94,64.782,4610811,"Europe",88
+"Bulgaria",2019,116.206,67.947,4791985,"Europe",88
 "Bulgaria",2020,114.353,70.16,4896594,"Europe",90
 "Burkina Faso",2005,4.72,0.47,65206,"Africa",198
 "Burkina Faso",2006,7.351,0.633,90580,"Africa",197
@@ -473,12 +473,12 @@
 "Burkina Faso",2012,60.201,3.725,637493,"Africa",196
 "Burkina Faso",2013,65.841,5,881821,"Africa",192
 "Burkina Faso",2014,71.047,6,1090191,"Africa",196
-"Burkina Faso",2015,79.77,8,1497442,"Africa",193
-"Burkina Faso",2016,82.612,12,2313060,"Africa",194
-"Burkina Faso",2017,93.504,16.8,3332424,"Africa",189
-"Burkina Faso",2018,97.912,17.4,3548335,"Africa",166
-"Burkina Faso",2019,100.212,18,3771295,"Africa",159
-"Burkina Faso",2020,105.807,22,4734979,"Africa",153
+"Burkina Faso",2015,79.77,8,1497442,"Africa",194
+"Burkina Faso",2016,82.612,12,2313060,"Africa",195
+"Burkina Faso",2017,93.504,16.8,3332424,"Africa",190
+"Burkina Faso",2018,97.912,17.4,3548335,"Africa",172
+"Burkina Faso",2019,100.212,18,3771295,"Africa",165
+"Burkina Faso",2020,105.807,22,4734979,"Africa",160
 "Burundi",2005,2.077,0.542,40058,"Africa",195
 "Burundi",2006,2.629,0.658,50360,"Africa",196
 "Burundi",2007,3.434,0.7,55612,"Africa",204
@@ -489,12 +489,12 @@
 "Burundi",2012,24.304,1.22,119505,"Africa",210
 "Burundi",2013,26.591,1.264,128313,"Africa",210
 "Burundi",2014,32.438,1.4,146929,"Africa",210
-"Burundi",2015,49.19,2,214543,"Africa",209
-"Burundi",2016,51.085,2.2,239873,"Africa",213
-"Burundi",2017,54.684,2.661,296822,"Africa",212
-"Burundi",2018,56.535,4.1,471233,"Africa",184
-"Burundi",2019,56.65,6.2,736240,"Africa",170
-"Burundi",2020,55.767,9.4,1148701,"Africa",165
+"Burundi",2015,49.19,2,214543,"Africa",210
+"Burundi",2016,51.085,2.2,239873,"Africa",214
+"Burundi",2017,54.684,2.661,296822,"Africa",213
+"Burundi",2018,56.535,4.1,471233,"Africa",192
+"Burundi",2019,56.65,6.2,736240,"Africa",181
+"Burundi",2020,55.767,9.4,1148701,"Africa",177
 "Cambodia",2005,8.001,0.317,42034,"Asia & Pacific",201
 "Cambodia",2006,12.774,0.468,63124,"Asia & Pacific",202
 "Cambodia",2007,18.884,0.49,67203,"Asia & Pacific",207
@@ -508,9 +508,9 @@
 "Cambodia",2015,134.334,18,2775155,"Asia & Pacific",166
 "Cambodia",2016,126.317,32.398,5062124,"Asia & Pacific",144
 "Cambodia",2017,116.013,32.9,5208343,"Asia & Pacific",150
-"Cambodia",2018,119.492,32.9,5208343,"Asia & Pacific",186
-"Cambodia",2019,129.916,32.9,5208343,"Asia & Pacific",172
-"Cambodia",2020,126.125,32.9,5208343,"Asia & Pacific",167
+"Cambodia",2018,119.492,32.9,5208343,"Asia & Pacific",141
+"Cambodia",2019,129.916,32.9,5208343,"Asia & Pacific",139
+"Cambodia",2020,126.125,32.9,5208343,"Asia & Pacific",143
 "Cameroon",2005,12.702,1.403,242311,"Africa",173
 "Cameroon",2006,17.208,2.029,360129,"Africa",173
 "Cameroon",2007,24.217,2.93,534780,"Africa",173
@@ -524,9 +524,9 @@
 "Cameroon",2015,77.948,18.3,4211315,"Africa",163
 "Cameroon",2016,78.229,20.6,4884595,"Africa",173
 "Cameroon",2017,81.964,23.203,5659943,"Africa",174
-"Cameroon",2018,73.19,29.7,7447796,"Africa",145
-"Cameroon",2019,82.704,33.5,8637085,"Africa",134
-"Cameroon",2020,84.195,37.8,10013632,"Africa",127
+"Cameroon",2018,73.19,29.7,7447796,"Africa",148
+"Cameroon",2019,82.704,33.5,8637085,"Africa",137
+"Cameroon",2020,84.195,37.8,10013632,"Africa",131
 "Canada",2005,52.905,71.66,23085925,"North America",8
 "Canada",2006,57.624,72.4,23553070,"North America",10
 "Canada",2007,61.576,73.2,24055318,"North America",17
@@ -556,9 +556,9 @@
 "Cape Verde",2015,116.527,42.683,235682,"Africa",118
 "Cape Verde",2016,113.332,50.323,281002,"Africa",116
 "Cape Verde",2017,113.909,57.162,322943,"Africa",109
-"Cape Verde",2018,112.241,59.5,339869,"Africa",101
-"Cape Verde",2019,108.318,61.943,357436,"Africa",97
-"Cape Verde",2020,97.975,64.5,375807,"Africa",98
+"Cape Verde",2018,112.241,59.5,339869,"Africa",103
+"Cape Verde",2019,108.318,61.943,357436,"Africa",98
+"Cape Verde",2020,97.975,64.5,375807,"Africa",99
 "Cayman Islands",2005,164.319,38.034,17781,"South/Latin America",45
 "Cayman Islands",2006,182.418,44.5,21449,"South/Latin America",46
 "Cayman Islands",2007,194.141,52,25826,"South/Latin America",41
@@ -573,8 +573,8 @@
 "Cayman Islands",2016,152.881,79,49196,"South/Latin America",47
 "Cayman Islands",2017,152.498,81.068,51560,"South/Latin America",43
 "Cayman Islands",2018,152.498,81.068,51560,"South/Latin America",45
-"Cayman Islands",2019,152.43,0,0,"South/Latin America",172
-"Cayman Islands",2020,152.156,0,0,"South/Latin America",167
+"Cayman Islands",2019,152.43,0,0,"South/Latin America",183
+"Cayman Islands",2020,152.156,0,0,"South/Latin America",180
 "Central African Republic",2005,2.476,0.268,11288,"Africa",203
 "Central African Republic",2006,2.671,0.311,13362,"Africa",204
 "Central African Republic",2007,8.099,0.376,16444,"Africa",210
@@ -585,12 +585,12 @@
 "Central African Republic",2012,25.767,2.4,114559,"Africa",204
 "Central African Republic",2013,30.583,2.5,120061,"Africa",204
 "Central African Republic",2014,25.887,2.7,129566,"Africa",207
-"Central African Republic",2015,27.653,2.9,139761,"Africa",207
-"Central African Republic",2016,27.511,3.1,152030,"Africa",212
-"Central African Republic",2017,25.574,4,199870,"Africa",211
-"Central African Republic",2018,27.414,5.1,259835,"Africa",182
-"Central African Republic",2019,33.619,8.3,432374,"Africa",169
-"Central African Republic",2020,37.911,10.4,555674,"Africa",162
+"Central African Republic",2015,27.653,2.9,139761,"Africa",208
+"Central African Republic",2016,27.511,3.1,152030,"Africa",213
+"Central African Republic",2017,25.574,4,199870,"Africa",212
+"Central African Republic",2018,27.414,5.1,259835,"Africa",190
+"Central African Republic",2019,33.619,8.3,432374,"Africa",180
+"Central African Republic",2020,37.911,10.4,555674,"Africa",173
 "Chad",2005,2.08,0.399,39946,"Africa",199
 "Chad",2006,4.457,0.581,60229,"Africa",199
 "Chad",2007,8.489,0.847,90846,"Africa",200
@@ -601,12 +601,12 @@
 "Chad",2012,34.434,2.1,267853,"Africa",206
 "Chad",2013,34.501,2.5,330419,"Africa",204
 "Chad",2014,38.435,2.9,397217,"Africa",206
-"Chad",2015,38.734,3.5,494910,"Africa",205
-"Chad",2016,38.359,5.8,846370,"Africa",208
-"Chad",2017,42.41,7.4,1116356,"Africa",208
-"Chad",2018,45.124,8,1248337,"Africa",180
-"Chad",2019,48.065,9.8,1580433,"Africa",168
-"Chad",2020,52.887,10.4,1731049,"Africa",162
+"Chad",2015,38.734,3.5,494910,"Africa",206
+"Chad",2016,38.359,5.8,846370,"Africa",209
+"Chad",2017,42.41,7.4,1116356,"Africa",209
+"Chad",2018,45.124,8,1248337,"Africa",188
+"Chad",2019,48.065,9.8,1580433,"Africa",178
+"Chad",2020,52.887,10.4,1731049,"Africa",173
 "Chile",2005,65.314,31.175,5042710,"South/Latin America",58
 "Chile",2006,76.131,34.498,5635060,"South/Latin America",58
 "Chile",2007,84.422,35.9,5921900,"South/Latin America",61
@@ -636,8 +636,8 @@
 "China",2015,91.835,50.3,701038864,"Asia & Pacific",103
 "China",2016,96.527,53.2,745805312,"Asia & Pacific",110
 "China",2017,103.438,54.3,765779840,"Asia & Pacific",119
-"China",2018,115.526,59.2,838905119,"Asia & Pacific",102
-"China",2019,121.792,64.11,911554782,"Asia & Pacific",93
+"China",2018,115.526,59.2,838905119,"Asia & Pacific",104
+"China",2019,121.792,64.11,911554782,"Asia & Pacific",94
 "China",2020,119.39,70.405,1003218650,"Asia & Pacific",88
 "Colombia",2005,51.234,11.007,4647371,"South/Latin America",106
 "Colombia",2006,68.894,15.342,6562081,"South/Latin America",100
@@ -652,8 +652,8 @@
 "Colombia",2015,120.637,55.905,26342271,"South/Latin America",90
 "Colombia",2016,121.816,58.136,27688063,"South/Latin America",99
 "Colombia",2017,127.214,62.26,30103691,"South/Latin America",97
-"Colombia",2018,129.909,64.126,31599532,"South/Latin America",90
-"Colombia",2019,131.672,65.007,32625274,"South/Latin America",92
+"Colombia",2018,129.909,64.126,31599532,"South/Latin America",91
+"Colombia",2019,131.672,65.007,32625274,"South/Latin America",93
 "Colombia",2020,132.997,69.79,35544505,"South/Latin America",93
 "Comoros",2005,2.538,2,11854,"Arab States",165
 "Comoros",2006,5.887,2.2,13303,"Arab States",170
@@ -665,12 +665,12 @@
 "Comoros",2012,39.166,5.975,40905,"Arab States",182
 "Comoros",2013,46.864,6.5,45461,"Arab States",183
 "Comoros",2014,50.435,6.98,49880,"Arab States",191
-"Comoros",2015,54.64,7.459,54468,"Arab States",196
-"Comoros",2016,57.113,7.938,59239,"Arab States",203
-"Comoros",2017,57.614,8.478,64576,"Arab States",205
-"Comoros",2018,59.941,0,0,"Arab States",186
-"Comoros",2019,67.602,0,0,"Arab States",172
-"Comoros",2020,89.878,0,0,"Arab States",167
+"Comoros",2015,54.64,7.459,54468,"Arab States",197
+"Comoros",2016,57.113,7.938,59239,"Arab States",204
+"Comoros",2017,57.614,8.478,64576,"Arab States",206
+"Comoros",2018,59.941,0,0,"Arab States",194
+"Comoros",2019,67.602,0,0,"Arab States",183
+"Comoros",2020,89.878,0,0,"Arab States",180
 "Congo",2005,15.408,1.463,53749,"Africa",172
 "Congo",2006,24.498,2.008,76571,"Africa",174
 "Congo",2007,33.22,2.76,109183,"Africa",174
@@ -681,12 +681,12 @@
 "Congo",2012,94.966,6.107,287824,"Africa",181
 "Congo",2013,100.8,6.6,318653,"Africa",181
 "Congo",2014,104.077,7.11,351580,"Africa",186
-"Congo",2015,107.411,7.616,385703,"Africa",195
-"Congo",2016,108.894,8.122,421272,"Africa",202
-"Congo",2017,98.93,8.65,459518,"Africa",203
-"Congo",2018,95.341,8.65,459518,"Africa",186
-"Congo",2019,91.906,8.65,459518,"Africa",172
-"Congo",2020,88.618,8.65,459518,"Africa",167
+"Congo",2015,107.411,7.616,385703,"Africa",196
+"Congo",2016,108.894,8.122,421272,"Africa",203
+"Congo",2017,98.93,8.65,459518,"Africa",204
+"Congo",2018,95.341,8.65,459518,"Africa",187
+"Congo",2019,91.906,8.65,459518,"Africa",179
+"Congo",2020,88.618,8.65,459518,"Africa",178
 "Costa Rica",2005,25.698,22.07,952518,"South/Latin America",72
 "Costa Rica",2006,33.224,25.1,1098921,"South/Latin America",78
 "Costa Rica",2007,34.242,28.4,1260967,"South/Latin America",77
@@ -713,12 +713,12 @@
 "Cote d'Ivoire",2012,84,4.4,968471,"Other",191
 "Cote d'Ivoire",2013,87.791,6.6,1482972,"Other",181
 "Cote d'Ivoire",2014,97.602,10,2299555,"Other",181
-"Cote d'Ivoire",2015,109.392,16.7,3940655,"Other",171
+"Cote d'Ivoire",2015,109.392,16.7,3940655,"Other",172
 "Cote d'Ivoire",2016,115.231,25.3,6126046,"Other",158
 "Cote d'Ivoire",2017,129.912,34.8,8647112,"Other",147
-"Cote d'Ivoire",2018,134.858,37.547,9572110,"Other",132
-"Cote d'Ivoire",2019,145.341,36.289,9488671,"Other",128
-"Cote d'Ivoire",2020,152.001,0,0,"Other",167
+"Cote d'Ivoire",2018,134.858,37.547,9572110,"Other",134
+"Cote d'Ivoire",2019,145.341,36.289,9488671,"Other",131
+"Cote d'Ivoire",2020,152.001,0,0,"Other",180
 "Croatia",2005,83.363,33.14,1467998,"Europe",55
 "Croatia",2006,100.559,37.98,1677790,"Europe",55
 "Croatia",2007,115.408,41.44,1825657,"Europe",54
@@ -748,8 +748,8 @@
 "Cuba",2015,29.452,37.305,4230356,"South/Latin America",131
 "Cuba",2016,35.182,42.979,4874647,"South/Latin America",128
 "Cuba",2017,40.689,57.148,6478574,"South/Latin America",110
-"Cuba",2018,47.392,62.679,7100421,"South/Latin America",93
-"Cuba",2019,53.317,67.971,7692052,"South/Latin America",86
+"Cuba",2018,47.392,62.679,7100421,"South/Latin America",94
+"Cuba",2019,53.317,67.971,7692052,"South/Latin America",87
 "Cuba",2020,58.815,74,8362514,"South/Latin America",76
 "Curacao",2005,0,0,0,"Other",210
 "Curacao",2006,0,0,0,"Other",209
@@ -761,12 +761,12 @@
 "Curacao",2012,132.222,0,0,"Other",213
 "Curacao",2013,129.789,0,0,"Other",213
 "Curacao",2014,121.554,0,0,"Other",213
-"Curacao",2015,119.17,0,0,"Other",212
+"Curacao",2015,119.17,0,0,"Other",213
 "Curacao",2016,115.891,61.856,105620,"Other",85
 "Curacao",2017,115.548,68.127,116867,"Other",80
-"Curacao",2018,114.524,0,0,"Other",186
-"Curacao",2019,112.735,0,0,"Other",172
-"Curacao",2020,110.913,0,0,"Other",167
+"Curacao",2018,114.524,0,0,"Other",194
+"Curacao",2019,112.735,0,0,"Other",183
+"Curacao",2020,110.913,0,0,"Other",180
 "Cyprus",2005,105.175,32.81,340263,"Europe",56
 "Cyprus",2006,114.499,35.83,378166,"Europe",56
 "Cyprus",2007,127.294,40.77,437819,"Europe",56
@@ -809,12 +809,12 @@
 "Democratic Republic of Congo",2012,29.111,1.68,1192737,"Other",207
 "Democratic Republic of Congo",2013,39.563,2.2,1616121,"Other",206
 "Democratic Republic of Congo",2014,50.297,3,2281068,"Other",205
-"Democratic Republic of Congo",2015,49.515,3.8,2988962,"Other",204
-"Democratic Republic of Congo",2016,36.667,6.21,5056843,"Other",206
-"Democratic Republic of Congo",2017,43.459,8.62,7265138,"Other",204
-"Democratic Republic of Congo",2018,43.382,11.7,10189220,"Other",176
-"Democratic Republic of Congo",2019,42.773,12.5,11238362,"Other",166
-"Democratic Republic of Congo",2020,45.554,13.6,12628031,"Other",161
+"Democratic Republic of Congo",2015,49.515,3.8,2988962,"Other",205
+"Democratic Republic of Congo",2016,36.667,6.21,5056843,"Other",207
+"Democratic Republic of Congo",2017,43.459,8.62,7265138,"Other",205
+"Democratic Republic of Congo",2018,43.382,11.7,10189220,"Other",182
+"Democratic Republic of Congo",2019,42.773,12.5,11238362,"Other",174
+"Democratic Republic of Congo",2020,45.554,13.6,12628031,"Other",171
 "Denmark",2005,100.507,82.74,4498006,"Europe",3
 "Denmark",2006,107.051,86.65,4729238,"Europe",3
 "Denmark",2007,115.322,85.03,4659408,"Europe",4
@@ -844,9 +844,9 @@
 "Djibouti",2015,34.393,22.9,230435,"Arab States",151
 "Djibouti",2016,37.159,30.8,315167,"Arab States",148
 "Djibouti",2017,39.514,55.681,579221,"Arab States",114
-"Djibouti",2018,41.196,58,613178,"Arab States",104
-"Djibouti",2019,42.511,59,633659,"Arab States",104
-"Djibouti",2020,43.931,59,643196,"Arab States",106
+"Djibouti",2018,41.196,58,613178,"Arab States",106
+"Djibouti",2019,42.511,59,633659,"Arab States",106
+"Djibouti",2020,43.931,59,643196,"Arab States",109
 "Dominica",2005,73.666,38.544,26474,"South/Latin America",44
 "Dominica",2006,101.106,39.398,27091,"South/Latin America",50
 "Dominica",2007,125.715,40.274,27704,"South/Latin America",57
@@ -860,9 +860,9 @@
 "Dominica",2015,108.529,65,45518,"South/Latin America",75
 "Dominica",2016,110.009,67.03,46987,"South/Latin America",80
 "Dominica",2017,105.279,69.62,49028,"South/Latin America",77
-"Dominica",2018,107.253,0,0,"South/Latin America",186
-"Dominica",2019,108.807,0,0,"South/Latin America",172
-"Dominica",2020,105.576,0,0,"South/Latin America",167
+"Dominica",2018,107.253,0,0,"South/Latin America",194
+"Dominica",2019,108.807,0,0,"South/Latin America",183
+"Dominica",2020,105.576,0,0,"South/Latin America",180
 "Dominican Republic",2005,39.828,11.483,1052409,"South/Latin America",105
 "Dominican Republic",2006,49.96,14.845,1378228,"South/Latin America",103
 "Dominican Republic",2007,59.031,17.66,1660430,"South/Latin America",105
@@ -892,9 +892,9 @@
 "East Asia and Pacific",2015,103.63,48.88,0,"Other",109
 "East Asia and Pacific",2016,109.771,52.242,0,"Other",113
 "East Asia and Pacific",2017,115.916,54.373,0,"Other",118
-"East Asia and Pacific",2018,121.898,59.516,0,"Other",100
-"East Asia and Pacific",2019,128.019,63.94,0,"Other",94
-"East Asia and Pacific",2020,125.889,69.218,0,"Other",94
+"East Asia and Pacific",2018,121.898,59.516,0,"Other",102
+"East Asia and Pacific",2019,128.019,63.94,0,"Other",95
+"East Asia and Pacific",2020,125.889,69.218,0,"Other",95
 "Ecuador",2005,45.179,5.994,825410,"South/Latin America",131
 "Ecuador",2006,60.352,7.2,1008653,"South/Latin America",132
 "Ecuador",2007,69.527,10.8,1539199,"South/Latin America",126
@@ -908,9 +908,9 @@
 "Ecuador",2015,79.841,48.94,7926346,"South/Latin America",107
 "Ecuador",2016,84.18,54.063,8887722,"South/Latin America",104
 "Ecuador",2017,87.287,55.8,9316896,"South/Latin America",113
-"Ecuador",2018,92.323,57.5,9784011,"South/Latin America",106
-"Ecuador",2019,91.248,61.6,10683745,"South/Latin America",99
-"Ecuador",2020,87.77,64.6,11362233,"South/Latin America",97
+"Ecuador",2018,92.323,57.5,9784011,"South/Latin America",108
+"Ecuador",2019,91.248,61.6,10683745,"South/Latin America",100
+"Ecuador",2020,87.77,64.6,11362233,"South/Latin America",98
 "Egypt",2005,18.047,12.75,10082102,"Middle east",98
 "Egypt",2006,23.416,13.66,11014012,"Middle east",107
 "Egypt",2007,38.467,16.03,13179668,"Middle east",109
@@ -924,8 +924,8 @@
 "Egypt",2015,101.702,37.819,36958534,"Middle east",128
 "Egypt",2016,103.541,41.248,41158983,"Middle east",131
 "Egypt",2017,106.756,44.95,45754535,"Middle east",131
-"Egypt",2018,95.287,46.924,48679666,"Middle east",118
-"Egypt",2019,94.972,57.283,60501404,"Middle east",106
+"Egypt",2018,95.287,46.924,48679666,"Middle east",120
+"Egypt",2019,94.972,57.283,60501404,"Middle east",108
 "Egypt",2020,93.182,71.914,77282687,"Middle east",84
 "El Salvador",2005,39.85,4.2,253588,"South/Latin America",143
 "El Salvador",2006,63.355,5.5,331894,"South/Latin America",145
@@ -940,9 +940,9 @@
 "El Salvador",2015,147.572,26.803,1670090,"South/Latin America",142
 "El Salvador",2016,151.621,28.997,1812466,"South/Latin America",151
 "El Salvador",2017,148.37,33.821,2119430,"South/Latin America",148
-"El Salvador",2018,146.922,43.8,2749037,"South/Latin America",122
-"El Salvador",2019,161.102,50.491,3170959,"South/Latin America",114
-"El Salvador",2020,153.387,54.601,3435919,"South/Latin America",110
+"El Salvador",2018,146.922,43.8,2749037,"South/Latin America",124
+"El Salvador",2019,161.102,50.491,3170959,"South/Latin America",116
+"El Salvador",2020,153.387,54.601,3435919,"South/Latin America",113
 "Equatorial Guinea",2005,12.928,1.15,9943,"Africa",178
 "Equatorial Guinea",2006,15.296,1.279,11582,"Africa",184
 "Equatorial Guinea",2007,18.255,1.557,14774,"Africa",191
@@ -956,9 +956,9 @@
 "Equatorial Guinea",2015,45.64,21.32,287175,"Africa",158
 "Equatorial Guinea",2016,47.372,23.78,332668,"Africa",163
 "Equatorial Guinea",2017,44.858,26.24,380664,"Africa",162
-"Equatorial Guinea",2018,45.167,0,0,"Africa",186
-"Equatorial Guinea",2019,45.502,0,0,"Africa",172
-"Equatorial Guinea",2020,45.973,0,0,"Africa",167
+"Equatorial Guinea",2018,45.167,0,0,"Africa",194
+"Equatorial Guinea",2019,45.502,0,0,"Africa",183
+"Equatorial Guinea",2020,45.973,0,0,"Africa",180
 "Eritrea",2005,1.431,0,0,"Africa",210
 "Eritrea",2006,2.124,0,0,"Africa",209
 "Eritrea",2007,2.815,0.41,11997,"Africa",208
@@ -969,12 +969,12 @@
 "Eritrea",2012,9.393,0.8,26021,"Africa",212
 "Eritrea",2013,10.814,0.9,29667,"Africa",212
 "Eritrea",2014,12.605,0.99,32902,"Africa",212
-"Eritrea",2015,14.21,1.084,36197,"Africa",211
-"Eritrea",2016,14.986,1.177,39613,"Africa",215
-"Eritrea",2017,20.364,1.309,44463,"Africa",214
-"Eritrea",2018,20.364,1.309,44463,"Africa",185
-"Eritrea",2019,37.488,0,0,"Africa",172
-"Eritrea",2020,50.784,0,0,"Africa",167
+"Eritrea",2015,14.21,1.084,36197,"Africa",212
+"Eritrea",2016,14.986,1.177,39613,"Africa",216
+"Eritrea",2017,20.364,1.309,44463,"Africa",215
+"Eritrea",2018,20.364,1.309,44463,"Africa",193
+"Eritrea",2019,37.488,0,0,"Africa",183
+"Eritrea",2020,50.784,0,0,"Africa",180
 "Estonia",2005,106.613,61.45,832442,"Europe",21
 "Estonia",2006,122.925,63.51,855296,"Europe",22
 "Estonia",2007,125.11,66.19,887327,"Europe",24
@@ -1004,9 +1004,9 @@
 "Eswatini",2015,85.232,25.643,290777,"Africa",145
 "Eswatini",2016,89.318,28.57,326421,"Africa",152
 "Eswatini",2017,93.527,30.3,348873,"Africa",155
-"Eswatini",2018,93.527,30.3,348873,"Africa",143
-"Eswatini",2019,102.427,0,0,"Africa",172
-"Eswatini",2020,107.14,0,0,"Africa",167
+"Eswatini",2018,93.527,30.3,348873,"Africa",146
+"Eswatini",2019,102.427,0,0,"Africa",183
+"Eswatini",2020,107.14,0,0,"Africa",180
 "Ethiopia",2005,0.538,0.22,170170,"Africa",207
 "Ethiopia",2006,1.104,0.311,247515,"Africa",204
 "Ethiopia",2007,1.498,0.37,303386,"Africa",211
@@ -1017,12 +1017,12 @@
 "Ethiopia",2012,22.134,2.9,2739087,"Africa",199
 "Ethiopia",2013,26.888,4.6,4465881,"Africa",195
 "Ethiopia",2014,31.082,7.7,7680501,"Africa",184
-"Ethiopia",2015,41.961,13.855,14197662,"Africa",179
-"Ethiopia",2016,49.442,15.367,16180331,"Africa",185
+"Ethiopia",2015,41.961,13.855,14197662,"Africa",180
+"Ethiopia",2016,49.442,15.367,16180331,"Africa",186
 "Ethiopia",2017,37.218,18.618,20144349,"Africa",184
-"Ethiopia",2018,37.218,18.618,20144349,"Africa",165
-"Ethiopia",2019,37.402,22,25106530,"Africa",153
-"Ethiopia",2020,38.708,24,28125821,"Africa",150
+"Ethiopia",2018,37.218,18.618,20144349,"Africa",170
+"Ethiopia",2019,37.402,22,25106530,"Africa",158
+"Ethiopia",2020,38.708,24,28125821,"Africa",157
 "Europe and Central Asia",2005,81.263,35.161,0,"Other",50
 "Europe and Central Asia",2006,94.828,38.031,0,"Other",52
 "Europe and Central Asia",2007,106.605,43.637,0,"Other",51
@@ -1068,9 +1068,9 @@
 "Faeroe Islands",2015,110.743,94.2,46015,"Other",7
 "Faeroe Islands",2016,113.107,95.109,47101,"Other",10
 "Faeroe Islands",2017,117.148,97.582,49044,"Other",5
-"Faeroe Islands",2018,117.104,0,0,"Other",186
-"Faeroe Islands",2019,112.903,0,0,"Other",172
-"Faeroe Islands",2020,121.182,0,0,"Other",167
+"Faeroe Islands",2018,117.104,0,0,"Other",194
+"Faeroe Islands",2019,112.903,0,0,"Other",183
+"Faeroe Islands",2020,121.182,0,0,"Other",180
 "Fiji",2005,24.951,8.454,73963,"Asia & Pacific",114
 "Fiji",2006,34.385,9.6,84778,"Asia & Pacific",118
 "Fiji",2007,63.388,10.898,97062,"Asia & Pacific",125
@@ -1084,9 +1084,9 @@
 "Fiji",2015,111.204,42.5,389814,"Asia & Pacific",119
 "Fiji",2016,119.749,49.42,453859,"Asia & Pacific",119
 "Fiji",2017,117.831,65.78,604533,"Asia & Pacific",84
-"Fiji",2018,114.886,68.9,633192,"Asia & Pacific",78
-"Fiji",2019,115.736,0,0,"Asia & Pacific",172
-"Fiji",2020,110.604,0,0,"Asia & Pacific",167
+"Fiji",2018,114.886,68.9,633192,"Asia & Pacific",79
+"Fiji",2019,115.736,0,0,"Asia & Pacific",183
+"Fiji",2020,110.604,0,0,"Asia & Pacific",180
 "Finland",2005,100.211,74.48,3907273,"Europe",6
 "Finland",2006,107.437,79.66,4195094,"Europe",6
 "Finland",2007,114.766,80.78,4272207,"Europe",6
@@ -1132,9 +1132,9 @@
 "French Polynesia",2015,98.246,64.56,188384,"Asia & Pacific",77
 "French Polynesia",2016,102.016,68.44,200908,"Asia & Pacific",76
 "French Polynesia",2017,104.251,72.704,214808,"Asia & Pacific",70
-"French Polynesia",2018,109.001,0,0,"Asia & Pacific",186
-"French Polynesia",2019,113.861,0,0,"Asia & Pacific",172
-"French Polynesia",2020,119.256,0,0,"Asia & Pacific",167
+"French Polynesia",2018,109.001,0,0,"Asia & Pacific",194
+"French Polynesia",2019,113.861,0,0,"Asia & Pacific",183
+"French Polynesia",2020,119.256,0,0,"Asia & Pacific",180
 "Gabon",2005,52.978,4.893,71362,"Africa",141
 "Gabon",2006,62.79,5.489,82477,"Africa",146
 "Gabon",2007,79.385,5.767,89376,"Africa",154
@@ -1148,9 +1148,9 @@
 "Gabon",2015,144.867,45.785,928750,"Africa",112
 "Gabon",2016,147.543,48.052,1002471,"Africa",120
 "Gabon",2017,128.982,50.32,1076964,"Africa",124
-"Gabon",2018,138.281,59.6,1306440,"Africa",99
-"Gabon",2019,137.754,61,1368101,"Africa",100
-"Gabon",2020,137.012,62,1421401,"Africa",104
+"Gabon",2018,138.281,59.6,1306440,"Africa",101
+"Gabon",2019,137.754,61,1368101,"Africa",102
+"Gabon",2020,137.012,62,1421401,"Africa",105
 "Gambia",2005,16.031,3.799,63078,"Africa",148
 "Gambia",2006,25.407,5.238,89632,"Africa",147
 "Gambia",2007,48.808,6.205,109512,"Africa",147
@@ -1164,9 +1164,9 @@
 "Gambia",2015,130.194,18.2,410071,"Africa",164
 "Gambia",2016,132.059,21.4,495883,"Africa",170
 "Gambia",2017,133.972,25.1,597678,"Africa",166
-"Gambia",2018,139.529,32.6,797043,"Africa",139
-"Gambia",2019,110.095,34.5,865564,"Africa",132
-"Gambia",2020,110.812,36.5,939512,"Africa",129
+"Gambia",2018,139.529,32.6,797043,"Africa",142
+"Gambia",2019,110.095,34.5,865564,"Africa",135
+"Gambia",2020,110.812,36.5,939512,"Africa",134
 "Georgia",2005,27.892,6.079,240818,"Europe",128
 "Georgia",2006,40.668,7.527,296097,"Europe",130
 "Georgia",2007,62.39,8.26,322675,"Europe",135
@@ -1180,8 +1180,8 @@
 "Georgia",2015,137.934,47.57,1793920,"Europe",110
 "Georgia",2016,137.765,58.459,2204565,"Europe",96
 "Georgia",2017,137.261,59.706,2252034,"Europe",104
-"Georgia",2018,136.381,62.718,2365922,"Europe",92
-"Georgia",2019,134.66,68.847,2596081,"Europe",79
+"Georgia",2018,136.381,62.718,2365922,"Europe",93
+"Georgia",2019,134.66,68.847,2596081,"Europe",80
 "Georgia",2020,127.849,72.532,2731476,"Europe",81
 "Germany",2005,97.143,68.71,55800880,"Europe",12
 "Germany",2006,105.13,72.16,58577915,"Europe",11
@@ -1212,9 +1212,9 @@
 "Ghana",2015,125.707,23,6640318,"Africa",150
 "Ghana",2016,134.489,28,8275203,"Africa",153
 "Ghana",2017,126.202,37.884,11449449,"Africa",142
-"Ghana",2018,137.517,43,13274379,"Africa",124
-"Ghana",2019,134.319,53,16706816,"Africa",109
-"Ghana",2020,130.215,58,18664633,"Africa",107
+"Ghana",2018,137.517,43,13274379,"Africa",126
+"Ghana",2019,134.319,53,16706816,"Africa",111
+"Ghana",2020,130.215,58,18664633,"Africa",110
 "Gibraltar",2005,60.207,39.07,11400,"Europe",41
 "Gibraltar",2006,65.835,45.299,13414,"Europe",44
 "Gibraltar",2007,71.605,51.61,15494,"Europe",43
@@ -1225,12 +1225,12 @@
 "Gibraltar",2012,103.281,65.017,20924,"Europe",52
 "Gibraltar",2013,103.281,65.017,20924,"Europe",61
 "Gibraltar",2014,112.676,0,0,"Europe",213
-"Gibraltar",2015,122.839,0,0,"Europe",212
+"Gibraltar",2015,122.839,0,0,"Europe",213
 "Gibraltar",2016,121.931,94.444,30779,"Europe",12
-"Gibraltar",2017,121.664,0,0,"Europe",215
-"Gibraltar",2018,121.73,0,0,"Europe",186
-"Gibraltar",2019,120.284,0,0,"Europe",172
-"Gibraltar",2020,105.185,0,0,"Europe",167
+"Gibraltar",2017,121.664,0,0,"Europe",216
+"Gibraltar",2018,121.73,0,0,"Europe",194
+"Gibraltar",2019,120.284,0,0,"Europe",183
+"Gibraltar",2020,105.185,0,0,"Europe",180
 "Greece",2005,91.408,24,2667228,"Europe",70
 "Greece",2006,98.164,32.25,3581716,"Europe",60
 "Greece",2007,110.562,35.88,3979627,"Europe",62
@@ -1260,9 +1260,9 @@
 "Greenland",2015,108.2,67.6,37799,"Europe",71
 "Greenland",2016,108.2,67.6,37799,"Europe",78
 "Greenland",2017,110.338,69.482,38876,"Europe",78
-"Greenland",2018,108.539,69.482,38876,"Europe",186
-"Greenland",2019,108.794,69.482,38876,"Europe",172
-"Greenland",2020,116.185,69.482,38876,"Europe",167
+"Greenland",2018,108.539,69.482,38876,"Europe",78
+"Greenland",2019,108.794,69.482,38876,"Europe",78
+"Greenland",2020,116.185,69.482,38876,"Europe",94
 "Grenada",2005,44.771,20.488,22591,"South/Latin America",79
 "Grenada",2006,44.021,21.396,23751,"South/Latin America",82
 "Grenada",2007,48.846,22.29,24907,"South/Latin America",88
@@ -1276,9 +1276,9 @@
 "Grenada",2015,109.277,52.5,62472,"South/Latin America",100
 "Grenada",2016,107.901,53.3,63946,"South/Latin America",108
 "Grenada",2017,102.077,54.2,65546,"South/Latin America",120
-"Grenada",2018,106.52,55.1,67141,"South/Latin America",110
-"Grenada",2019,103.733,56,68733,"South/Latin America",107
-"Grenada",2020,108.422,56.9,70369,"South/Latin America",109
+"Grenada",2018,106.52,55.1,67141,"South/Latin America",112
+"Grenada",2019,103.733,56,68733,"South/Latin America",109
+"Grenada",2020,108.422,56.9,70369,"South/Latin America",112
 "Guatemala",2005,34.438,5.7,748571,"South/Latin America",133
 "Guatemala",2006,53.585,6.5,871806,"South/Latin America",135
 "Guatemala",2007,86.841,7.3,999852,"South/Latin America",138
@@ -1292,9 +1292,9 @@
 "Guatemala",2015,111.5,28.806,4609269,"South/Latin America",139
 "Guatemala",2016,110.14,34.509,5621916,"South/Latin America",140
 "Guatemala",2017,118.159,37.9,6283334,"South/Latin America",141
-"Guatemala",2018,118.667,41.5,6992823,"South/Latin America",127
-"Guatemala",2019,118.728,44.401,7595394,"South/Latin America",119
-"Guatemala",2020,113.815,49.97,8676149,"South/Latin America",115
+"Guatemala",2018,118.667,41.5,6992823,"South/Latin America",129
+"Guatemala",2019,118.728,44.401,7595394,"South/Latin America",121
+"Guatemala",2020,113.815,49.97,8676149,"South/Latin America",119
 "Guinea",2005,2.075,0.542,49563,"Africa",195
 "Guinea",2006,2.075,0.542,49563,"Africa",200
 "Guinea",2007,21.012,0.78,74470,"Africa",202
@@ -1305,12 +1305,12 @@
 "Guinea",2012,52.429,3.1,334450,"Africa",198
 "Guinea",2013,68.269,4.5,497494,"Africa",196
 "Guinea",2014,77.872,6.4,725335,"Africa",194
-"Guinea",2015,94.156,9.2,1069592,"Africa",189
-"Guinea",2016,94.646,13.1,1562960,"Africa",192
+"Guinea",2015,94.156,9.2,1069592,"Africa",190
+"Guinea",2016,94.646,13.1,1562960,"Africa",193
 "Guinea",2017,96.954,18.7,2289028,"Africa",182
-"Guinea",2018,96.767,21.83,2740731,"Africa",157
-"Guinea",2019,100.797,23,2961834,"Africa",150
-"Guinea",2020,105.042,26,3433341,"Africa",145
+"Guinea",2018,96.767,21.83,2740731,"Africa",161
+"Guinea",2019,100.797,23,2961834,"Africa",155
+"Guinea",2020,105.042,26,3433341,"Africa",152
 "Guinea-Bissau",2005,7.348,1.901,26233,"Africa",166
 "Guinea-Bissau",2006,11.421,2.057,29091,"Africa",172
 "Guinea-Bissau",2007,20.986,2.206,32004,"Africa",177
@@ -1321,12 +1321,12 @@
 "Guinea-Bissau",2012,65.371,2.894,47830,"Africa",200
 "Guinea-Bissau",2013,57.024,3.1,52630,"Africa",202
 "Guinea-Bissau",2014,65.485,3.32,57878,"Africa",204
-"Guinea-Bissau",2015,71.292,6.1,109125,"Africa",200
-"Guinea-Bissau",2016,72.139,13.8,253168,"Africa",190
-"Guinea-Bissau",2017,78.485,14.8,278216,"Africa",192
-"Guinea-Bissau",2018,78.989,15.7,302218,"Africa",171
-"Guinea-Bissau",2019,82.793,19.4,382269,"Africa",156
-"Guinea-Bissau",2020,97.249,22.9,461627,"Africa",152
+"Guinea-Bissau",2015,71.292,6.1,109125,"Africa",201
+"Guinea-Bissau",2016,72.139,13.8,253168,"Africa",191
+"Guinea-Bissau",2017,78.485,14.8,278216,"Africa",193
+"Guinea-Bissau",2018,78.989,15.7,302218,"Africa",177
+"Guinea-Bissau",2019,82.793,19.4,382269,"Africa",162
+"Guinea-Bissau",2020,97.249,22.9,461627,"Africa",159
 "Guyana",2005,37.709,5.7,43304,"South/Latin America",133
 "Guyana",2006,53.595,8.9,67495,"South/Latin America",122
 "Guyana",2007,72.176,13.8,104401,"South/Latin America",118
@@ -1340,9 +1340,9 @@
 "Guyana",2015,70.703,34,256715,"South/Latin America",134
 "Guyana",2016,75.795,35.66,270694,"South/Latin America",138
 "Guyana",2017,82.971,37.326,284895,"South/Latin America",143
-"Guyana",2018,82.971,37.326,284895,"South/Latin America",133
-"Guyana",2019,99.391,37.326,284895,"South/Latin America",172
-"Guyana",2020,108.829,37.326,284895,"South/Latin America",167
+"Guyana",2018,82.971,37.326,284895,"South/Latin America",135
+"Guyana",2019,99.391,37.326,284895,"South/Latin America",128
+"Guyana",2020,108.829,37.326,284895,"South/Latin America",133
 "Haiti",2005,5.44,6.376,580993,"South/Latin America",126
 "Haiti",2006,12.841,6.796,629737,"South/Latin America",134
 "Haiti",2007,26.329,7.2,678300,"South/Latin America",139
@@ -1353,12 +1353,12 @@
 "Haiti",2012,59.458,9.8,990637,"South/Latin America",170
 "Haiti",2013,68.844,10.6,1087688,"South/Latin America",173
 "Haiti",2014,64.17,11.4,1187052,"South/Latin America",178
-"Haiti",2015,68.253,14.2,1500054,"South/Latin America",177
+"Haiti",2015,68.253,14.2,1500054,"South/Latin America",178
 "Haiti",2016,60,22.8,2442757,"South/Latin America",167
 "Haiti",2017,57.418,27.2,2954885,"South/Latin America",159
-"Haiti",2018,59.361,32.474,3576135,"South/Latin America",140
-"Haiti",2019,60.759,33.3,3716427,"South/Latin America",135
-"Haiti",2020,64.188,34.5,3900847,"South/Latin America",135
+"Haiti",2018,59.361,32.474,3576135,"South/Latin America",143
+"Haiti",2019,60.759,33.3,3716427,"South/Latin America",138
+"Haiti",2020,64.188,34.5,3900847,"South/Latin America",140
 "High income",2005,83.761,58.701,0,"Other",23
 "High income",2006,91.438,61.41,0,"Other",24
 "High income",2007,99.767,66.81,0,"Other",23
@@ -1388,9 +1388,9 @@
 "Honduras",2015,88.318,27.1,2518812,"South/Latin America",141
 "Honduras",2016,84.489,29.5,2790935,"South/Latin America",149
 "Honduras",2017,87.321,31.7,3051710,"South/Latin America",153
-"Honduras",2018,79.15,36,3525427,"South/Latin America",134
-"Honduras",2019,77.568,39.388,3922620,"South/Latin America",124
-"Honduras",2020,70.277,42.05,4256201,"South/Latin America",122
+"Honduras",2018,79.15,36,3525427,"South/Latin America",136
+"Honduras",2019,77.568,39.388,3922620,"South/Latin America",126
+"Honduras",2020,70.277,42.05,4256201,"South/Latin America",126
 "Hong Kong",2005,126.216,56.9,3947080,"Asia & Pacific",26
 "Hong Kong",2006,138.842,60.8,4232045,"Asia & Pacific",25
 "Hong Kong",2007,157.187,64.8,4536941,"Asia & Pacific",27
@@ -1449,12 +1449,12 @@
 "India",2012,68.315,11.1,141468081,"Asia & Pacific",161
 "India",2013,69.197,12.3,158809242,"Asia & Pacific",167
 "India",2014,72.863,13.5,176478273,"Asia & Pacific",170
-"India",2015,76.408,14.9,197107112,"Asia & Pacific",175
-"India",2016,85.149,16.5,220874988,"Asia & Pacific",181
+"India",2015,76.408,14.9,197107112,"Asia & Pacific",176
+"India",2016,85.149,16.5,220874988,"Asia & Pacific",182
 "India",2017,87.318,18.2,246463630,"Asia & Pacific",186
-"India",2018,86.943,20.081,274913663,"Asia & Pacific",160
-"India",2019,84.27,29.4,406634942,"Asia & Pacific",140
-"India",2020,83.602,43,600446441,"Asia & Pacific",119
+"India",2018,86.943,20.081,274913663,"Asia & Pacific",165
+"India",2019,84.27,29.4,406634942,"Asia & Pacific",144
+"India",2020,83.602,43,600446441,"Asia & Pacific",123
 "Indonesia",2005,20.73,3.602,8241618,"Asia & Pacific",152
 "Indonesia",2006,27.823,4.765,11044714,"Asia & Pacific",148
 "Indonesia",2007,40.188,5.786,13589546,"Asia & Pacific",153
@@ -1468,9 +1468,9 @@
 "Indonesia",2015,131.18,22.063,57162793,"Asia & Pacific",155
 "Indonesia",2016,147.415,25.447,66633940,"Asia & Pacific",157
 "Indonesia",2017,164.441,32.336,85527839,"Asia & Pacific",152
-"Indonesia",2018,119.339,39.905,106572065,"Asia & Pacific",130
-"Indonesia",2019,126.107,47.691,128565820,"Asia & Pacific",116
-"Indonesia",2020,130.015,53.726,146059763,"Asia & Pacific",112
+"Indonesia",2018,119.339,39.905,106572065,"Asia & Pacific",132
+"Indonesia",2019,126.107,47.691,128565820,"Asia & Pacific",118
+"Indonesia",2020,130.015,53.726,146059763,"Asia & Pacific",115
 "Iran",2005,12.199,8.1,5684790,"Middle east",116
 "Iran",2006,21.806,8.76,6243757,"Middle east",123
 "Iran",2007,41.732,9.47,6848650,"Middle east",129
@@ -1497,12 +1497,12 @@
 "Iraq",2012,83.901,7.1,2404376,"Middle east",178
 "Iraq",2013,97.868,9.2,3264326,"Middle east",176
 "Iraq",2014,95.897,13.21,4854211,"Middle east",172
-"Iraq",2015,94.34,16.8,6343312,"Middle east",170
+"Iraq",2015,94.34,16.8,6343312,"Middle east",171
 "Iraq",2016,91.359,37.67,14577513,"Middle east",137
 "Iraq",2017,88.983,41.94,16617112,"Middle east",133
-"Iraq",2018,95.04,43.3,17575773,"Middle east",123
-"Iraq",2019,94.696,60,24938114,"Middle east",102
-"Iraq",2020,93.17,60,24938114,"Middle east",167
+"Iraq",2018,95.04,43.3,17575773,"Middle east",125
+"Iraq",2019,94.696,60,24938114,"Middle east",104
+"Iraq",2020,93.17,60,24938114,"Middle east",107
 "Ireland",2005,103.11,41.61,1714840,"Europe",38
 "Ireland",2006,110.862,54.82,2321522,"Europe",31
 "Ireland",2007,114.939,61.158,2666406,"Europe",31
@@ -1564,9 +1564,9 @@
 "Jamaica",2015,108.516,42.221,1179853,"South/Latin America",120
 "Jamaica",2016,112.425,44.367,1243469,"South/Latin America",126
 "Jamaica",2017,105.833,55.072,1546637,"South/Latin America",117
-"Jamaica",2018,101.027,68.215,1918084,"South/Latin America",80
-"Jamaica",2019,102.564,0,0,"South/Latin America",172
-"Jamaica",2020,97.031,0,0,"South/Latin America",167
+"Jamaica",2018,101.027,68.215,1918084,"South/Latin America",81
+"Jamaica",2019,102.564,0,0,"South/Latin America",183
+"Jamaica",2020,97.031,0,0,"South/Latin America",180
 "Japan",2005,75.187,66.921,85524036,"Asia & Pacific",16
 "Japan",2006,77.732,68.685,87849952,"Asia & Pacific",18
 "Japan",2007,83.536,74.3,95108777,"Asia & Pacific",16
@@ -1596,9 +1596,9 @@
 "Jordan",2015,148.9,54.22,5147782,"Middle east",95
 "Jordan",2016,102.765,56.15,5595156,"Middle east",102
 "Jordan",2017,99.156,64.5,6588923,"Middle east",88
-"Jordan",2018,87.621,66.1,6913970,"Middle east",81
-"Jordan",2019,77.005,0,0,"Middle east",172
-"Jordan",2020,68.488,0,0,"Middle east",167
+"Jordan",2018,87.621,66.1,6913970,"Middle east",82
+"Jordan",2019,77.005,0,0,"Middle east",183
+"Jordan",2020,68.488,0,0,"Middle east",180
 "Kazakhstan",2005,35.046,2.962,463692,"Asia & Pacific",158
 "Kazakhstan",2006,50.001,3.268,517146,"Asia & Pacific",160
 "Kazakhstan",2007,78.478,4.02,643447,"Asia & Pacific",163
@@ -1625,12 +1625,12 @@
 "Kenya",2012,69.304,10.5,4591210,"Africa",167
 "Kenya",2013,69.925,13,5823008,"Africa",163
 "Kenya",2014,72.018,16.5,7562257,"Africa",162
-"Kenya",2015,78.775,16.588,7771658,"Africa",172
-"Kenya",2016,79.472,16.6,7950515,"Africa",180
+"Kenya",2015,78.775,16.588,7771658,"Africa",173
+"Kenya",2016,79.472,16.6,7950515,"Africa",181
 "Kenya",2017,85.253,17.827,8726034,"Africa",188
-"Kenya",2018,96.32,19.5,9740894,"Africa",162
-"Kenya",2019,103.769,22.565,11497256,"Africa",151
-"Kenya",2020,114.204,29.5,15335805,"Africa",139
+"Kenya",2018,96.32,19.5,9740894,"Africa",167
+"Kenya",2019,103.769,22.565,11497256,"Africa",156
+"Kenya",2020,114.204,29.5,15335805,"Africa",145
 "Kiribati",2005,0.704,4,3927,"Asia & Pacific",145
 "Kiribati",2006,0.742,4.5,4504,"Asia & Pacific",152
 "Kiribati",2007,0.777,6,6121,"Asia & Pacific",150
@@ -1641,12 +1641,12 @@
 "Kiribati",2012,16.922,10.747,11997,"Asia & Pacific",164
 "Kiribati",2013,18.537,11.5,13031,"Asia & Pacific",168
 "Kiribati",2014,27.425,12.25,14088,"Asia & Pacific",174
-"Kiribati",2015,36.96,14.9,17391,"Asia & Pacific",175
+"Kiribati",2015,36.96,14.9,17391,"Asia & Pacific",176
 "Kiribati",2016,46.212,18.7,22165,"Asia & Pacific",176
 "Kiribati",2017,40.403,23.4,28168,"Asia & Pacific",173
-"Kiribati",2018,46.042,29.4,35949,"Asia & Pacific",146
-"Kiribati",2019,46.476,36.9,45849,"Asia & Pacific",126
-"Kiribati",2020,45.761,38,48060,"Asia & Pacific",126
+"Kiribati",2018,46.042,29.4,35949,"Asia & Pacific",149
+"Kiribati",2019,46.476,36.9,45849,"Asia & Pacific",129
+"Kiribati",2020,45.761,38,48060,"Asia & Pacific",130
 "Kuwait",2005,60.879,25.926,579555,"Middle east",64
 "Kuwait",2006,49.694,28.791,680456,"Middle east",66
 "Kuwait",2007,56.964,34.8,872357,"Middle east",64
@@ -1676,9 +1676,9 @@
 "Kyrgyzstan",2015,127.191,30.247,1789108,"Asia & Pacific",137
 "Kyrgyzstan",2016,125.339,34.5,2076315,"Asia & Pacific",141
 "Kyrgyzstan",2017,136.807,38.199,2338265,"Asia & Pacific",139
-"Kyrgyzstan",2018,138.566,42.8,2663659,"Asia & Pacific",125
-"Kyrgyzstan",2019,134.395,51,3225058,"Asia & Pacific",111
-"Kyrgyzstan",2020,130.453,51,3225058,"Asia & Pacific",167
+"Kyrgyzstan",2018,138.566,42.8,2663659,"Asia & Pacific",127
+"Kyrgyzstan",2019,134.395,51,3225058,"Asia & Pacific",113
+"Kyrgyzstan",2020,130.453,51,3225058,"Asia & Pacific",118
 "Laos",2005,11.432,0.85,49771,"Asia & Pacific",189
 "Laos",2006,17.269,1.17,69569,"Asia & Pacific",187
 "Laos",2007,24.868,1.64,99078,"Asia & Pacific",188
@@ -1692,9 +1692,9 @@
 "Laos",2015,55.29,18.2,1235310,"Asia & Pacific",164
 "Laos",2016,57.824,21.87,1507142,"Asia & Pacific",169
 "Laos",2017,53.384,25.51,1785201,"Asia & Pacific",165
-"Laos",2018,51.863,29.1,2067557,"Asia & Pacific",147
-"Laos",2019,60.844,30.84,2224199,"Asia & Pacific",139
-"Laos",2020,56.353,33.8,2473956,"Asia & Pacific",136
+"Laos",2018,51.863,29.1,2067557,"Asia & Pacific",150
+"Laos",2019,60.844,30.84,2224199,"Asia & Pacific",143
+"Laos",2020,56.353,33.8,2473956,"Asia & Pacific",141
 "Latin America and Caribbean",2005,43.285,16.601,0,"Other",86
 "Latin America and Caribbean",2006,54.451,20.738,0,"Other",84
 "Latin America and Caribbean",2007,67.134,23.712,0,"Other",87
@@ -1708,8 +1708,8 @@
 "Latin America and Caribbean",2015,111.499,54.39,0,"Other",93
 "Latin America and Caribbean",2016,109.881,57.529,0,"Other",100
 "Latin America and Caribbean",2017,106.482,62.345,0,"Other",96
-"Latin America and Caribbean",2018,104.826,65.438,0,"Other",83
-"Latin America and Caribbean",2019,102.509,68.728,0,"Other",81
+"Latin America and Caribbean",2018,104.826,65.438,0,"Other",84
+"Latin America and Caribbean",2019,102.509,68.728,0,"Other",82
 "Latin America and Caribbean",2020,102.419,73.686,0,"Other",78
 "Latvia",2005,83.109,46,1027256,"Europe",36
 "Latvia",2006,98.141,53.63,1181961,"Europe",33
@@ -1756,9 +1756,9 @@
 "Lesotho",2015,103.94,25,529633,"Africa",147
 "Lesotho",2016,110.019,32.454,695770,"Africa",143
 "Lesotho",2017,113.831,39,846543,"Africa",138
-"Lesotho",2018,75.042,40.8,896796,"Africa",128
-"Lesotho",2019,79.126,42.302,941514,"Africa",121
-"Lesotho",2020,72.944,43,969265,"Africa",119
+"Lesotho",2018,75.042,40.8,896796,"Africa",130
+"Lesotho",2019,79.126,42.302,941514,"Africa",123
+"Lesotho",2020,72.944,43,969265,"Africa",123
 "Liberia",2005,4.972,0,0,"Africa",210
 "Liberia",2006,8.41,0,0,"Africa",209
 "Liberia",2007,16.263,0.551,20030,"Africa",206
@@ -1769,12 +1769,12 @@
 "Liberia",2012,57.546,2.6,112625,"Africa",202
 "Liberia",2013,60.042,3.2,141674,"Africa",201
 "Liberia",2014,73.982,5.41,244500,"Africa",201
-"Liberia",2015,81.659,10,461233,"Africa",186
-"Liberia",2016,67.956,15.7,738859,"Africa",184
-"Liberia",2017,56.569,16.3,781851,"Africa",190
-"Liberia",2018,56.569,16.3,781851,"Africa",168
-"Liberia",2019,39.231,22,1096764,"Africa",153
-"Liberia",2020,32.683,25.6,1302423,"Africa",147
+"Liberia",2015,81.659,10,461233,"Africa",187
+"Liberia",2016,67.956,15.7,738859,"Africa",185
+"Liberia",2017,56.569,16.3,781851,"Africa",191
+"Liberia",2018,56.569,16.3,781851,"Africa",174
+"Liberia",2019,39.231,22,1096764,"Africa",158
+"Liberia",2020,32.683,25.6,1302423,"Africa",154
 "Libya",2005,34.491,3.918,228720,"Middle east",146
 "Libya",2006,66.717,4.301,256918,"Middle east",155
 "Libya",2007,75.316,4.722,287909,"Middle east",160
@@ -1785,12 +1785,12 @@
 "Libya",2012,152.52,15.2,892222,"Middle east",150
 "Libya",2013,161.942,16.5,987563,"Middle east",149
 "Libya",2014,133.559,17.76,1082963,"Middle east",155
-"Libya",2015,151.864,17.76,1082963,"Middle east",212
-"Libya",2016,117.989,17.76,1082963,"Middle east",216
-"Libya",2017,91.479,17.76,1082963,"Middle east",215
-"Libya",2018,91.479,17.76,1082963,"Middle east",186
-"Libya",2019,54.858,17.76,1082963,"Middle east",172
-"Libya",2020,42.525,17.76,1082963,"Middle east",167
+"Libya",2015,151.864,17.76,1082963,"Middle east",168
+"Libya",2016,117.989,17.76,1082963,"Middle east",180
+"Libya",2017,91.479,17.76,1082963,"Middle east",189
+"Libya",2018,91.479,17.76,1082963,"Middle east",171
+"Libya",2019,54.858,17.76,1082963,"Middle east",166
+"Libya",2020,42.525,17.76,1082963,"Middle east",168
 "Liechtenstein",2005,79.23,63.371,21944,"Europe",18
 "Liechtenstein",2006,82.228,64.214,22420,"Europe",20
 "Liechtenstein",2007,90.902,65.08,22895,"Europe",26
@@ -1804,9 +1804,9 @@
 "Liechtenstein",2015,109.287,96.641,36123,"Europe",4
 "Liechtenstein",2016,117.632,98.094,36913,"Europe",3
 "Liechtenstein",2017,122.757,99.547,37744,"Europe",1
-"Liechtenstein",2018,124.695,0,0,"Europe",186
-"Liechtenstein",2019,125.59,0,0,"Europe",172
-"Liechtenstein",2020,128.218,0,0,"Europe",167
+"Liechtenstein",2018,124.695,0,0,"Europe",194
+"Liechtenstein",2019,125.59,0,0,"Europe",183
+"Liechtenstein",2020,128.218,0,0,"Europe",180
 "Lithuania",2005,130.176,36.22,1221895,"Europe",48
 "Lithuania",2006,142.832,43.9,1458769,"Europe",47
 "Lithuania",2007,150.724,49.9,1632936,"Europe",45
@@ -1836,9 +1836,9 @@
 "Low and middle income",2015,92.455,32.678,0,"Other",135
 "Low and middle income",2016,96.167,35.393,0,"Other",139
 "Low and middle income",2017,98.79,38.153,0,"Other",140
-"Low and middle income",2018,102.572,42.068,0,"Other",126
-"Low and middle income",2019,103.764,47.283,0,"Other",118
-"Low and middle income",2020,103.37,54.173,0,"Other",111
+"Low and middle income",2018,102.572,42.068,0,"Other",128
+"Low and middle income",2019,103.764,47.283,0,"Other",120
+"Low and middle income",2020,103.37,54.173,0,"Other",114
 "Low income",2005,4.362,0.868,0,"Other",187
 "Low income",2006,7.293,1.126,0,"Other",189
 "Low income",2007,11.751,2.237,0,"Other",176
@@ -1849,12 +1849,12 @@
 "Low income",2012,39.766,4.611,0,"Other",189
 "Low income",2013,46.242,5.387,0,"Other",188
 "Low income",2014,52.143,7.024,0,"Other",187
-"Low income",2015,55.226,9.158,0,"Other",190
-"Low income",2016,53.422,11.101,0,"Other",197
-"Low income",2017,53.423,13.8,0,"Other",193
-"Low income",2018,60.468,16.289,0,"Other",169
-"Low income",2019,55.592,18.176,0,"Other",158
-"Low income",2020,57.867,20.615,0,"Other",155
+"Low income",2015,55.226,9.158,0,"Other",191
+"Low income",2016,53.422,11.101,0,"Other",198
+"Low income",2017,53.423,13.8,0,"Other",194
+"Low income",2018,60.468,16.289,0,"Other",175
+"Low income",2019,55.592,18.176,0,"Other",164
+"Low income",2020,57.867,20.615,0,"Other",163
 "Lower middle income",2005,12.944,3.75,0,"Other",149
 "Lower middle income",2006,21.146,4.583,0,"Other",149
 "Lower middle income",2007,30.664,5.701,0,"Other",155
@@ -1868,9 +1868,9 @@
 "Lower middle income",2015,88.945,20.774,0,"Other",159
 "Lower middle income",2016,94.929,23.499,0,"Other",164
 "Lower middle income",2017,97.784,26.561,0,"Other",161
-"Lower middle income",2018,96.527,29.897,0,"Other",144
-"Lower middle income",2019,99.422,36.229,0,"Other",129
-"Lower middle income",2020,100.141,44.877,0,"Other",118
+"Lower middle income",2018,96.527,29.897,0,"Other",147
+"Lower middle income",2019,99.422,36.229,0,"Other",132
+"Lower middle income",2020,100.141,44.877,0,"Other",122
 "Luxembourg",2005,111.392,70,325408,"Europe",10
 "Luxembourg",2006,153.132,72.51,342539,"Europe",9
 "Luxembourg",2007,144.131,78.92,378719,"Europe",7
@@ -1913,12 +1913,12 @@
 "Madagascar",2012,39.284,2.3,528224,"Africa",205
 "Madagascar",2013,36.85,3,707642,"Africa",203
 "Madagascar",2014,41.178,3.7,895991,"Africa",203
-"Madagascar",2015,44.127,4.174,1037270,"Africa",203
-"Madagascar",2016,32.129,4.714,1202076,"Africa",209
-"Madagascar",2017,34.143,9.8,2564615,"Africa",202
-"Madagascar",2018,40.57,15,4026982,"Africa",174
+"Madagascar",2015,44.127,4.174,1037270,"Africa",204
+"Madagascar",2016,32.129,4.714,1202076,"Africa",210
+"Madagascar",2017,34.143,9.8,2564615,"Africa",203
+"Madagascar",2018,40.57,15,4026982,"Africa",180
 "Madagascar",2019,48.214,15,4026982,"Africa",172
-"Madagascar",2020,57.307,15,4026982,"Africa",167
+"Madagascar",2020,57.307,15,4026982,"Africa",170
 "Malawi",2005,3.336,0.384,49044,"Africa",200
 "Malawi",2006,4.78,0.425,55771,"Africa",203
 "Malawi",2007,7.876,0.966,130348,"Africa",197
@@ -1929,12 +1929,12 @@
 "Malawi",2012,30.182,4.351,677878,"Africa",192
 "Malawi",2013,33.398,5.05,809251,"Africa",191
 "Malawi",2014,34.577,5.83,960666,"Africa",199
-"Malawi",2015,39.215,6,1016337,"Africa",201
-"Malawi",2016,41.722,6.3,1096554,"Africa",205
-"Malawi",2017,43.987,7,1251682,"Africa",209
-"Malawi",2018,39.006,8,1469431,"Africa",180
-"Malawi",2019,47.781,9.9,1867867,"Africa",167
-"Malawi",2020,52.299,9.9,1867867,"Africa",164
+"Malawi",2015,39.215,6,1016337,"Africa",202
+"Malawi",2016,41.722,6.3,1096554,"Africa",206
+"Malawi",2017,43.987,7,1251682,"Africa",210
+"Malawi",2018,39.006,8,1469431,"Africa",188
+"Malawi",2019,47.781,9.9,1867867,"Africa",177
+"Malawi",2020,52.299,9.9,1867867,"Africa",176
 "Malaysia",2005,76.078,48.629,12606402,"Asia & Pacific",32
 "Malaysia",2006,74.283,51.638,13688929,"Asia & Pacific",36
 "Malaysia",2007,87.375,55.7,15090581,"Asia & Pacific",38
@@ -1964,9 +1964,9 @@
 "Maldives",2015,162.622,54.462,237231,"Asia & Pacific",92
 "Maldives",2016,170.79,59.093,268436,"Asia & Pacific",95
 "Maldives",2017,181.329,61.25,289375,"Asia & Pacific",100
-"Maldives",2018,166.364,62.07,304002,"Asia & Pacific",96
-"Maldives",2019,155.954,62.5,315324,"Asia & Pacific",96
-"Maldives",2020,132.775,62.93,323744,"Asia & Pacific",101
+"Maldives",2018,166.364,62.07,304002,"Asia & Pacific",97
+"Maldives",2019,155.954,62.5,315324,"Asia & Pacific",97
+"Maldives",2020,132.775,62.93,323744,"Asia & Pacific",102
 "Mali",2005,5.964,0.507,66834,"Africa",197
 "Mali",2006,11.459,0.73,99401,"Africa",195
 "Mali",2007,18.539,0.81,114055,"Africa",201
@@ -1977,12 +1977,12 @@
 "Mali",2012,91.447,2.8,462411,"Africa",201
 "Mali",2013,120.058,3.5,595141,"Africa",200
 "Mali",2014,138.805,7,1228628,"Africa",188
-"Mali",2015,130.163,10.33,1871064,"Africa",185
-"Mali",2016,112.537,14,2618015,"Africa",189
+"Mali",2015,130.163,10.33,1871064,"Africa",186
+"Mali",2016,112.537,14,2618015,"Africa",190
 "Mali",2017,119.023,18.9,3649846,"Africa",181
-"Mali",2018,115.085,21.4,4265941,"Africa",159
-"Mali",2019,116.621,24.2,4977318,"Africa",148
-"Mali",2020,125.01,27.4,5815387,"Africa",143
+"Mali",2018,115.085,21.4,4265941,"Africa",163
+"Mali",2019,116.621,24.2,4977318,"Africa",153
+"Mali",2020,125.01,27.4,5815387,"Africa",149
 "Malta",2005,80.064,41.24,169173,"Europe",39
 "Malta",2006,85.343,40.41,166168,"Europe",49
 "Malta",2007,90.359,46.9,193271,"Europe",49
@@ -2009,12 +2009,12 @@
 "Mauritania",2012,108.604,5,181806,"Arab States",184
 "Mauritania",2013,104.472,6.2,232064,"Arab States",184
 "Mauritania",2014,95.483,11.8,453495,"Arab States",177
-"Mauritania",2015,90.069,17.6,694536,"Arab States",168
+"Mauritania",2015,90.069,17.6,694536,"Arab States",169
 "Mauritania",2016,86.805,24.1,976507,"Arab States",161
 "Mauritania",2017,95.133,24.2,1006724,"Arab States",169
-"Mauritania",2018,103.706,35.1,1499022,"Arab States",137
-"Mauritania",2019,104.09,36.7,1608874,"Arab States",127
-"Mauritania",2020,106.085,40.8,1835431,"Arab States",124
+"Mauritania",2018,103.706,35.1,1499022,"Arab States",139
+"Mauritania",2019,104.09,36.7,1608874,"Arab States",130
+"Mauritania",2020,106.085,40.8,1835431,"Arab States",128
 "Mauritius",2005,53.75,15.172,190874,"Africa",90
 "Mauritius",2006,62.894,16.7,211218,"Africa",96
 "Mauritius",2007,75.26,20.22,256913,"Africa",99
@@ -2028,9 +2028,9 @@
 "Mauritius",2015,139.925,50.139,648381,"Africa",104
 "Mauritius",2016,143.755,52.191,675308,"Africa",114
 "Mauritius",2017,145.473,55.403,717330,"Africa",116
-"Mauritius",2018,151.359,58.596,759047,"Africa",103
-"Mauritius",2019,147.015,61.73,800196,"Africa",98
-"Mauritius",2020,150.413,64.885,842096,"Africa",96
+"Mauritius",2018,151.359,58.596,759047,"Africa",105
+"Mauritius",2019,147.015,61.73,800196,"Africa",99
+"Mauritius",2020,150.413,64.885,842096,"Africa",97
 "Mexico",2005,44.459,17.21,18146636,"South/Latin America",83
 "Mexico",2006,51.502,19.52,20864302,"South/Latin America",88
 "Mexico",2007,60.968,20.81,22537849,"South/Latin America",95
@@ -2044,7 +2044,7 @@
 "Mexico",2015,88.372,57.431,69003337,"South/Latin America",85
 "Mexico",2016,90.592,59.54,72353089,"South/Latin America",93
 "Mexico",2017,91.627,63.852,78435628,"South/Latin America",90
-"Mexico",2018,95.225,65.773,81567188,"South/Latin America",82
+"Mexico",2018,95.225,65.773,81567188,"South/Latin America",83
 "Mexico",2019,95.657,70.07,87647163,"South/Latin America",76
 "Mexico",2020,95.32,71.968,90678697,"South/Latin America",83
 "Micronesia (country)",2005,13.28,11.881,13183,"Other",102
@@ -2060,9 +2060,9 @@
 "Micronesia (country)",2015,20.667,31.501,34486,"Other",136
 "Micronesia (country)",2016,21.242,33.352,36665,"Other",142
 "Micronesia (country)",2017,20.738,35.304,38990,"Other",145
-"Micronesia (country)",2018,20.738,35.304,38990,"Other",135
-"Micronesia (country)",2019,20.208,0,0,"Other",172
-"Micronesia (country)",2020,19.127,0,0,"Other",167
+"Micronesia (country)",2018,20.738,35.304,38990,"Other",137
+"Micronesia (country)",2019,20.208,0,0,"Other",183
+"Micronesia (country)",2020,19.127,0,0,"Other",180
 "Middle East and North Africa",2005,28.354,9.842,0,"Other",109
 "Middle East and North Africa",2006,40.59,11.883,0,"Other",113
 "Middle East and North Africa",2007,56.164,15.129,0,"Other",112
@@ -2076,8 +2076,8 @@
 "Middle East and North Africa",2015,109.589,44.844,0,"Other",115
 "Middle East and North Africa",2016,108.521,50.288,0,"Other",117
 "Middle East and North Africa",2017,107.544,56.634,0,"Other",111
-"Middle East and North Africa",2018,106.003,61.444,0,"Other",98
-"Middle East and North Africa",2019,110.805,69.282,0,"Other",78
+"Middle East and North Africa",2018,106.003,61.444,0,"Other",100
+"Middle East and North Africa",2019,110.805,69.282,0,"Other",79
 "Middle East and North Africa",2020,110.852,77.832,0,"Other",69
 "Middle income",2005,25.131,7.391,0,"Other",120
 "Middle income",2006,33.346,9.017,0,"Other",121
@@ -2092,9 +2092,9 @@
 "Middle income",2015,96.358,34.876,0,"Other",133
 "Middle income",2016,100.712,37.87,0,"Other",136
 "Middle income",2017,103.686,40.675,0,"Other",137
-"Middle income",2018,105.981,44.494,0,"Other",119
-"Middle income",2019,109.125,49.937,0,"Other",115
-"Middle income",2020,108.516,57.213,0,"Other",108
+"Middle income",2018,105.981,44.494,0,"Other",121
+"Middle income",2019,109.125,49.937,0,"Other",117
+"Middle income",2020,108.516,57.213,0,"Other",111
 "Moldova",2005,26.202,14.63,585413,"Other",94
 "Moldova",2006,32.756,19.621,773593,"Other",87
 "Moldova",2007,45.588,20.45,792815,"Other",98
@@ -2108,9 +2108,9 @@
 "Moldova",2015,91.216,69,2261399,"Other",66
 "Moldova",2016,93.175,71,2289839,"Other",70
 "Moldova",2017,92.289,76.125,2421152,"Other",61
-"Moldova",2018,89.758,0,0,"Other",186
-"Moldova",2019,89.379,0,0,"Other",172
-"Moldova",2020,84.79,0,0,"Other",167
+"Moldova",2018,89.758,0,0,"Other",194
+"Moldova",2019,89.379,0,0,"Other",183
+"Moldova",2020,84.79,0,0,"Other",180
 "Monaco",2005,50.796,55.465,17839,"Europe",28
 "Monaco",2006,53.545,61.476,19688,"Europe",23
 "Monaco",2007,59.088,64.378,20498,"Europe",29
@@ -2124,9 +2124,9 @@
 "Monaco",2015,90.196,93.363,34340,"Europe",9
 "Monaco",2016,87.463,95.208,35313,"Europe",8
 "Monaco",2017,85.898,97.053,35977,"Europe",9
-"Monaco",2018,84.507,0,0,"Europe",186
-"Monaco",2019,86.703,0,0,"Europe",172
-"Monaco",2020,90.426,0,0,"Europe",167
+"Monaco",2018,84.507,0,0,"Europe",194
+"Monaco",2019,86.703,0,0,"Europe",183
+"Monaco",2020,90.426,0,0,"Europe",180
 "Mongolia",2005,22.055,0,0,"Asia & Pacific",210
 "Mongolia",2006,30.283,0,0,"Asia & Pacific",209
 "Mongolia",2007,46.055,9,234508,"Asia & Pacific",132
@@ -2140,9 +2140,9 @@
 "Mongolia",2015,102.325,22.5,667070,"Asia & Pacific",153
 "Mongolia",2016,110.182,22.266,674555,"Asia & Pacific",168
 "Mongolia",2017,124.805,23.714,734201,"Asia & Pacific",171
-"Mongolia",2018,133.178,47.13,1491190,"Asia & Pacific",117
-"Mongolia",2019,137.014,51.08,1651128,"Asia & Pacific",110
-"Mongolia",2020,133.116,62.5,2058963,"Asia & Pacific",103
+"Mongolia",2018,133.178,47.13,1491190,"Asia & Pacific",119
+"Mongolia",2019,137.014,51.08,1651128,"Asia & Pacific",112
+"Mongolia",2020,133.116,62.5,2058963,"Asia & Pacific",104
 "Montenegro",2005,88.129,27.1,171512,"Europe",60
 "Montenegro",2006,104.179,28.9,182807,"Europe",65
 "Montenegro",2007,145.266,30.8,194635,"Europe",73
@@ -2172,7 +2172,7 @@
 "Morocco",2015,124.279,57.08,19795604,"Arab States",86
 "Morocco",2016,118.185,58.271,20457441,"Arab States",98
 "Morocco",2017,123.425,61.762,21942950,"Arab States",98
-"Morocco",2018,124.172,64.804,23282418,"Arab States",86
+"Morocco",2018,124.172,64.804,23282418,"Arab States",87
 "Morocco",2019,127.953,74.376,27001880,"Arab States",68
 "Morocco",2020,133.894,84.12,30862724,"Arab States",52
 "Mozambique",2005,7.338,0.854,172675,"Africa",188
@@ -2185,12 +2185,12 @@
 "Mozambique",2012,35.414,5,1224381,"Africa",184
 "Mozambique",2013,48.517,5.5,1388846,"Africa",187
 "Mozambique",2014,70.313,6,1562322,"Africa",196
-"Mozambique",2015,74.458,6.5,1744811,"Africa",198
-"Mozambique",2016,53.991,7,1938755,"Africa",204
-"Mozambique",2017,41.452,7.8,2228417,"Africa",207
-"Mozambique",2018,47.716,10.9,3207203,"Africa",177
-"Mozambique",2019,48.651,15.1,4573126,"Africa",164
-"Mozambique",2020,49.474,16.5,5144410,"Africa",160
+"Mozambique",2015,74.458,6.5,1744811,"Africa",199
+"Mozambique",2016,53.991,7,1938755,"Africa",205
+"Mozambique",2017,41.452,7.8,2228417,"Africa",208
+"Mozambique",2018,47.716,10.9,3207203,"Africa",184
+"Mozambique",2019,48.651,15.1,4573126,"Africa",171
+"Mozambique",2020,49.474,16.5,5144410,"Africa",169
 "Myanmar",2005,0.263,0.065,31135,"Asia & Pacific",209
 "Myanmar",2006,0.435,0.182,87544,"Asia & Pacific",208
 "Myanmar",2007,0.499,0.217,105189,"Asia & Pacific",214
@@ -2201,12 +2201,12 @@
 "Myanmar",2012,7.254,1.4,703055,"Asia & Pacific",208
 "Myanmar",2013,13.177,1.8,911670,"Asia & Pacific",208
 "Myanmar",2014,55.526,7.4,3779360,"Asia & Pacific",185
-"Myanmar",2015,77.815,10.9,5611751,"Asia & Pacific",184
-"Myanmar",2016,95.365,16,8302776,"Asia & Pacific",183
+"Myanmar",2015,77.815,10.9,5611751,"Asia & Pacific",185
+"Myanmar",2016,95.365,16,8302776,"Asia & Pacific",184
 "Myanmar",2017,89.817,23.621,12351073,"Asia & Pacific",172
-"Myanmar",2018,113.844,28.7,15115147,"Asia & Pacific",149
-"Myanmar",2019,151.623,34.9,18511035,"Asia & Pacific",130
-"Myanmar",2020,144.364,35.1,18751542,"Asia & Pacific",133
+"Myanmar",2018,113.844,28.7,15115147,"Asia & Pacific",152
+"Myanmar",2019,151.623,34.9,18511035,"Asia & Pacific",133
+"Myanmar",2020,144.364,35.1,18751542,"Asia & Pacific",138
 "Namibia",2005,23.157,4.01,78712,"Africa",144
 "Namibia",2006,30.885,4.399,87387,"Africa",154
 "Namibia",2007,39.884,4.836,97268,"Africa",158
@@ -2220,9 +2220,9 @@
 "Namibia",2015,110.148,25.688,586379,"Africa",144
 "Namibia",2016,112.803,31.033,721014,"Africa",146
 "Namibia",2017,111.552,36.837,871035,"Africa",144
-"Namibia",2018,112.702,40,962273,"Africa",129
-"Namibia",2019,113.194,40.5,990892,"Africa",122
-"Namibia",2020,114.059,41,1020531,"Africa",123
+"Namibia",2018,112.702,40,962273,"Africa",131
+"Namibia",2019,113.194,40.5,990892,"Africa",124
+"Namibia",2020,114.059,41,1020531,"Africa",127
 "Nepal",2005,0.883,0.827,217260,"Asia & Pacific",191
 "Nepal",2006,4.439,1.141,302685,"Asia & Pacific",188
 "Nepal",2007,12.39,1.41,376662,"Asia & Pacific",193
@@ -2233,12 +2233,12 @@
 "Nepal",2012,61.538,11.149,3047181,"Asia & Pacific",160
 "Nepal",2013,79.364,13.3,3641747,"Asia & Pacific",161
 "Nepal",2014,85.562,15.44,4240150,"Asia & Pacific",166
-"Nepal",2015,101.855,17.582,4854342,"Asia & Pacific",169
+"Nepal",2015,101.855,17.582,4854342,"Asia & Pacific",170
 "Nepal",2016,117.815,20.7,5767266,"Asia & Pacific",172
 "Nepal",2017,130.629,24.3,6848572,"Asia & Pacific",168
-"Nepal",2018,139.446,28.6,8152921,"Asia & Pacific",150
-"Nepal",2019,135.26,32.8,9457060,"Asia & Pacific",136
-"Nepal",2020,131.15,37.7,11064432,"Asia & Pacific",128
+"Nepal",2018,139.446,28.6,8152921,"Asia & Pacific",153
+"Nepal",2019,135.26,32.8,9457060,"Asia & Pacific",140
+"Nepal",2020,131.15,37.7,11064432,"Asia & Pacific",132
 "Netherlands",2005,96.743,81,13172086,"Europe",5
 "Netherlands",2006,105.206,83.7,13664593,"Europe",4
 "Netherlands",2007,116.832,85.82,14066955,"Europe",3
@@ -2269,8 +2269,8 @@
 "New Caledonia",2016,96.02,74.002,209455,"Asia & Pacific",62
 "New Caledonia",2017,96.02,74.002,209455,"Asia & Pacific",68
 "New Caledonia",2018,96.02,74.002,209455,"Asia & Pacific",65
-"New Caledonia",2019,91.954,0,0,"Asia & Pacific",172
-"New Caledonia",2020,91.069,0,0,"Asia & Pacific",167
+"New Caledonia",2019,91.954,0,0,"Asia & Pacific",183
+"New Caledonia",2020,91.069,0,0,"Asia & Pacific",180
 "New Zealand",2005,85.361,62.72,2592090,"Asia & Pacific",20
 "New Zealand",2006,90.836,69,2884190,"Asia & Pacific",15
 "New Zealand",2007,100.429,69.76,2944915,"Asia & Pacific",20
@@ -2300,9 +2300,9 @@
 "Nicaragua",2015,116.726,19.704,1241097,"South/Central America",160
 "Nicaragua",2016,122.867,24.572,1569953,"South/Central America",160
 "Nicaragua",2017,128.114,30.4,1970082,"South/Central America",154
-"Nicaragua",2018,115.096,37.6,2471160,"South/Central America",131
-"Nicaragua",2019,88.434,37.8,2518961,"South/Central America",125
-"Nicaragua",2020,90.217,45.2,3053667,"South/Central America",117
+"Nicaragua",2018,115.096,37.6,2471160,"South/Central America",133
+"Nicaragua",2019,88.434,37.8,2518961,"South/Central America",127
+"Nicaragua",2020,90.217,45.2,3053667,"South/Central America",121
 "Niger",2005,2.377,0.221,30667,"Africa",206
 "Niger",2006,3.415,0.294,42238,"Africa",207
 "Niger",2007,6.129,0.39,58160,"Africa",209
@@ -2313,12 +2313,12 @@
 "Niger",2012,30.32,1.05,188521,"Africa",211
 "Niger",2013,37.863,1.15,214512,"Africa",211
 "Niger",2014,42.808,1.249,241894,"Africa",211
-"Niger",2015,44.791,2.476,498417,"Africa",208
-"Niger",2016,35.941,4.323,904397,"Africa",210
-"Niger",2017,40.639,10.224,2222553,"Africa",201
-"Niger",2018,40.639,10.224,2222553,"Africa",179
-"Niger",2019,51.989,10.224,2222553,"Africa",172
-"Niger",2020,58.823,10.224,2222553,"Africa",167
+"Niger",2015,44.791,2.476,498417,"Africa",209
+"Niger",2016,35.941,4.323,904397,"Africa",211
+"Niger",2017,40.639,10.224,2222553,"Africa",202
+"Niger",2018,40.639,10.224,2222553,"Africa",186
+"Niger",2019,51.989,10.224,2222553,"Africa",176
+"Niger",2020,58.823,10.224,2222553,"Africa",175
 "Nigeria",2005,13.385,3.549,4986234,"Africa",153
 "Nigeria",2006,22.676,5.545,8003138,"Africa",144
 "Nigeria",2007,27.604,6.77,10039506,"Africa",145
@@ -2332,9 +2332,9 @@
 "Nigeria",2015,83.268,24.5,45078965,"Africa",148
 "Nigeria",2016,82.997,25.67,48430801,"Africa",155
 "Nigeria",2017,75.925,28,54178853,"Africa",158
-"Nigeria",2018,88.184,31.9,63285649,"Africa",141
-"Nigeria",2019,91.854,33.6,68310308,"Africa",133
-"Nigeria",2020,99.073,35.5,73956230,"Africa",132
+"Nigeria",2018,88.184,31.9,63285649,"Africa",144
+"Nigeria",2019,91.854,33.6,68310308,"Africa",136
+"Nigeria",2020,99.073,35.5,73956230,"Africa",137
 "North America",2005,67.467,68.33,250868733,"Other",13
 "North America",2006,75.193,69.273,260383632,"Other",14
 "North America",2007,80.828,74.822,284394197,"Other",14
@@ -2361,12 +2361,12 @@
 "North Korea",2012,6.855,0,0,"Asia & Pacific",213
 "North Korea",2013,9.707,0,0,"Asia & Pacific",213
 "North Korea",2014,11.174,0,0,"Asia & Pacific",213
-"North Korea",2015,12.865,0,0,"Asia & Pacific",212
-"North Korea",2016,14.249,0,0,"Asia & Pacific",216
-"North Korea",2017,14.982,0,0,"Asia & Pacific",215
-"North Korea",2018,14.982,0,0,"Asia & Pacific",186
-"North Korea",2019,16.57,0,0,"Asia & Pacific",172
-"North Korea",2020,23.275,0,0,"Asia & Pacific",167
+"North Korea",2015,12.865,0,0,"Asia & Pacific",213
+"North Korea",2016,14.249,0,0,"Asia & Pacific",217
+"North Korea",2017,14.982,0,0,"Asia & Pacific",216
+"North Korea",2018,14.982,0,0,"Asia & Pacific",194
+"North Korea",2019,16.57,0,0,"Asia & Pacific",183
+"North Korea",2020,23.275,0,0,"Asia & Pacific",180
 "North Macedonia",2005,54.896,26.45,549807,"Other",62
 "North Macedonia",2006,61.258,28.62,595605,"Other",67
 "North Macedonia",2007,86.88,36.3,756308,"Other",60
@@ -2425,12 +2425,12 @@
 "Pakistan",2012,64.156,8.1,16378675,"Asia & Pacific",173
 "Pakistan",2013,66.787,9,18480380,"Asia & Pacific",177
 "Pakistan",2014,69.513,10,20825163,"Asia & Pacific",181
-"Pakistan",2015,63.131,11,23206623,"Asia & Pacific",183
-"Pakistan",2016,67.028,12.385,26446006,"Asia & Pacific",193
-"Pakistan",2017,69.515,13.78,29817115,"Asia & Pacific",194
-"Pakistan",2018,72.557,15.34,33706811,"Asia & Pacific",173
-"Pakistan",2019,76.377,17.071,38118177,"Asia & Pacific",161
-"Pakistan",2020,79.507,25,56799184,"Asia & Pacific",148
+"Pakistan",2015,63.131,11,23206623,"Asia & Pacific",184
+"Pakistan",2016,67.028,12.385,26446006,"Asia & Pacific",194
+"Pakistan",2017,69.515,13.78,29817115,"Asia & Pacific",195
+"Pakistan",2018,72.557,15.34,33706811,"Asia & Pacific",179
+"Pakistan",2019,76.377,17.071,38118177,"Asia & Pacific",168
+"Pakistan",2020,79.507,25,56799184,"Asia & Pacific",155
 "Palau",2005,30.59,0,0,"Asia & Pacific",210
 "Palau",2006,42.712,0,0,"Asia & Pacific",209
 "Palau",2007,55.804,0,0,"Asia & Pacific",215
@@ -2441,12 +2441,12 @@
 "Palau",2012,97.228,0,0,"Asia & Pacific",213
 "Palau",2013,101.925,0,0,"Asia & Pacific",213
 "Palau",2014,108.442,0,0,"Asia & Pacific",213
-"Palau",2015,134.407,0,0,"Asia & Pacific",212
-"Palau",2016,134.407,0,0,"Asia & Pacific",216
-"Palau",2017,134.407,0,0,"Asia & Pacific",215
-"Palau",2018,134.407,0,0,"Asia & Pacific",186
-"Palau",2019,133.274,0,0,"Asia & Pacific",172
-"Palau",2020,132.641,0,0,"Asia & Pacific",167
+"Palau",2015,134.407,0,0,"Asia & Pacific",213
+"Palau",2016,134.407,0,0,"Asia & Pacific",217
+"Palau",2017,134.407,0,0,"Asia & Pacific",216
+"Palau",2018,134.407,0,0,"Asia & Pacific",194
+"Palau",2019,133.274,0,0,"Asia & Pacific",183
+"Palau",2020,132.641,0,0,"Asia & Pacific",180
 "Palestine",2005,15.863,16.005,0,"Other",87
 "Palestine",2006,22.439,18.41,0,"Other",90
 "Palestine",2007,27.193,21.176,0,"Other",92
@@ -2460,7 +2460,7 @@
 "Palestine",2015,77.961,56.7,0,"Other",88
 "Palestine",2016,80.101,59.9,0,"Other",90
 "Palestine",2017,84.18,63.3,0,"Other",93
-"Palestine",2018,89.976,64.4,0,"Other",88
+"Palestine",2018,89.976,64.4,0,"Other",89
 "Palestine",2019,86.325,70.623,0,"Other",73
 "Palestine",2020,83.783,74.6,0,"Other",75
 "Panama",2005,52.511,11.484,379647,"South/Latin America",104
@@ -2476,9 +2476,9 @@
 "Panama",2015,144.688,51.205,2026251,"South/Latin America",102
 "Panama",2016,127.364,54,2174223,"South/Latin America",105
 "Panama",2017,128.573,59.951,2455620,"South/Latin America",103
-"Panama",2018,137.001,61.806,2574360,"South/Latin America",97
-"Panama",2019,137.19,63.628,2693097,"South/Latin America",95
-"Panama",2020,135.017,64.25,2759146,"South/Latin America",99
+"Panama",2018,137.001,61.806,2574360,"South/Latin America",98
+"Panama",2019,137.19,63.628,2693097,"South/Latin America",96
+"Panama",2020,135.017,64.25,2759146,"South/Latin America",100
 "Papua New Guinea",2005,1.155,1.716,111532,"Asia & Pacific",171
 "Papua New Guinea",2006,1.504,1.754,117695,"Asia & Pacific",176
 "Papua New Guinea",2007,4.406,1.791,123926,"Asia & Pacific",185
@@ -2489,12 +2489,12 @@
 "Papua New Guinea",2012,35.5,3.5,280929,"Asia & Pacific",197
 "Papua New Guinea",2013,38.519,5.1,420527,"Asia & Pacific",189
 "Papua New Guinea",2014,42.268,6.5,550170,"Asia & Pacific",192
-"Papua New Guinea",2015,43.908,7.9,685892,"Asia & Pacific",194
-"Papua New Guinea",2016,45.722,9.602,854458,"Asia & Pacific",201
-"Papua New Guinea",2017,47.618,11.209,1021696,"Asia & Pacific",200
-"Papua New Guinea",2018,49.963,11.209,1021696,"Asia & Pacific",186
-"Papua New Guinea",2019,51.674,11.209,1021696,"Asia & Pacific",172
-"Papua New Guinea",2020,53.85,11.209,1021696,"Asia & Pacific",167
+"Papua New Guinea",2015,43.908,7.9,685892,"Asia & Pacific",195
+"Papua New Guinea",2016,45.722,9.602,854458,"Asia & Pacific",202
+"Papua New Guinea",2017,47.618,11.209,1021696,"Asia & Pacific",201
+"Papua New Guinea",2018,49.963,11.209,1021696,"Asia & Pacific",183
+"Papua New Guinea",2019,51.674,11.209,1021696,"Asia & Pacific",175
+"Papua New Guinea",2020,53.85,11.209,1021696,"Asia & Pacific",172
 "Paraguay",2005,32.4,7.907,433057,"South/Latin America",118
 "Paraguay",2006,54.672,7.962,440675,"South/Latin America",126
 "Paraguay",2007,78.26,11.21,626656,"South/Latin America",123
@@ -2508,8 +2508,8 @@
 "Paraguay",2015,110.813,49.716,3071450,"South/Latin America",105
 "Paraguay",2016,110.499,53.404,3346635,"South/Latin America",107
 "Paraguay",2017,108.755,61.076,3881612,"South/Latin America",101
-"Paraguay",2018,106.953,64.994,4187753,"South/Latin America",85
-"Paraguay",2019,110.181,68.518,4474221,"South/Latin America",84
+"Paraguay",2018,106.953,64.994,4187753,"South/Latin America",86
+"Paraguay",2019,110.181,68.518,4474221,"South/Latin America",85
 "Paraguay",2020,110.27,73.958,4895026,"South/Latin America",77
 "Peru",2005,20.036,17.1,4813182,"South/Latin America",84
 "Peru",2006,32.453,20.7,5874884,"South/Latin America",85
@@ -2524,9 +2524,9 @@
 "Peru",2015,112.356,40.853,12546595,"South/Latin America",123
 "Peru",2016,119.424,45.462,14153502,"South/Latin America",123
 "Peru",2017,123.76,50.45,15945099,"South/Latin America",123
-"Peru",2018,131.778,55.054,17729668,"South/Latin America",111
-"Peru",2019,122.559,59.951,19678670,"South/Latin America",103
-"Peru",2020,133.447,65.25,21731361,"South/Latin America",95
+"Peru",2018,131.778,55.054,17729668,"South/Latin America",113
+"Peru",2019,122.559,59.951,19678670,"South/Latin America",105
+"Peru",2020,133.447,65.25,21731361,"South/Latin America",96
 "Philippines",2005,40.288,5.398,4656069,"Asia & Pacific",136
 "Philippines",2006,48.776,5.741,5046081,"Asia & Pacific",141
 "Philippines",2007,64.14,5.97,5346814,"Asia & Pacific",151
@@ -2540,9 +2540,9 @@
 "Philippines",2015,115.399,36.9,38018573,"Asia & Pacific",132
 "Philippines",2016,115.852,39.2,41111107,"Asia & Pacific",135
 "Philippines",2017,114.071,41.6,44403213,"Asia & Pacific",134
-"Philippines",2018,126.205,44.1,47878853,"Asia & Pacific",121
-"Philippines",2019,154.761,43.027,47493118,"Asia & Pacific",120
-"Philippines",2020,136.501,49.8,55871109,"Asia & Pacific",116
+"Philippines",2018,126.205,44.1,47878853,"Asia & Pacific",123
+"Philippines",2019,154.761,43.027,47493118,"Asia & Pacific",122
+"Philippines",2020,136.501,49.8,55871109,"Asia & Pacific",120
 "Poland",2005,76.016,38.81,14971312,"Europe",43
 "Poland",2006,95.805,44.58,17184334,"Europe",45
 "Poland",2007,107.914,48.6,18721627,"Europe",46
@@ -2590,7 +2590,7 @@
 "Puerto Rico",2017,107.135,68.741,2314094,"South/Latin America",79
 "Puerto Rico",2018,109.563,70.856,2351915,"South/Latin America",71
 "Puerto Rico",2019,114.951,77.736,2559774,"South/Latin America",61
-"Puerto Rico",2020,121.767,0,0,"South/Latin America",167
+"Puerto Rico",2020,121.767,0,0,"South/Latin America",180
 "Qatar",2005,82.823,24.733,209918,"Middle east",69
 "Qatar",2006,89.935,28.974,294106,"Middle east",64
 "Qatar",2007,103.757,37,455804,"Middle east",59
@@ -2652,9 +2652,9 @@
 "Rwanda",2015,77.048,18,2095733,"Africa",166
 "Rwanda",2016,76.456,20,2386180,"Africa",175
 "Rwanda",2017,73.61,21.768,2662256,"Africa",176
-"Rwanda",2018,78.854,25,3132952,"Africa",153
-"Rwanda",2019,76.492,26,3337108,"Africa",145
-"Rwanda",2020,81.951,26.5,3483787,"Africa",144
+"Rwanda",2018,78.854,25,3132952,"Africa",157
+"Rwanda",2019,76.492,26,3337108,"Africa",150
+"Rwanda",2020,81.951,26.5,3483787,"Africa",151
 "Saint Kitts and Nevis",2005,108.842,34,15896,"South/Latin America",54
 "Saint Kitts and Nevis",2006,107.734,38.5,18056,"South/Latin America",51
 "Saint Kitts and Nevis",2007,134.999,43.5,20462,"South/Latin America",52
@@ -2668,9 +2668,9 @@
 "Saint Kitts and Nevis",2015,142.587,75.7,36195,"South/Latin America",46
 "Saint Kitts and Nevis",2016,148.345,76.818,36730,"South/Latin America",54
 "Saint Kitts and Nevis",2017,147.714,80.71,38588,"South/Latin America",46
-"Saint Kitts and Nevis",2018,136.523,0,0,"South/Latin America",186
-"Saint Kitts and Nevis",2019,123.477,0,0,"South/Latin America",172
-"Saint Kitts and Nevis",2020,146.619,0,0,"South/Latin America",167
+"Saint Kitts and Nevis",2018,136.523,0,0,"South/Latin America",194
+"Saint Kitts and Nevis",2019,123.477,0,0,"South/Latin America",183
+"Saint Kitts and Nevis",2020,146.619,0,0,"South/Latin America",180
 "Saint Lucia",2005,64.654,21.568,35671,"South/Latin America",73
 "Saint Lucia",2006,63.853,24.5,40787,"South/Latin America",80
 "Saint Lucia",2007,87.688,27.9,46739,"South/Latin America",80
@@ -2684,9 +2684,9 @@
 "Saint Lucia",2015,104.809,41.7,73241,"South/Latin America",121
 "Saint Lucia",2016,98.125,43.8,77276,"South/Latin America",127
 "Saint Lucia",2017,97.646,46,81500,"South/Latin America",130
-"Saint Lucia",2018,101.68,48.3,85923,"South/Latin America",116
-"Saint Lucia",2019,80.852,50.7,90547,"South/Latin America",113
-"Saint Lucia",2020,110.55,53.3,95538,"South/Latin America",114
+"Saint Lucia",2018,101.68,48.3,85923,"South/Latin America",118
+"Saint Lucia",2019,80.852,50.7,90547,"South/Latin America",115
+"Saint Lucia",2020,110.55,53.3,95538,"South/Latin America",117
 "Saint Vincent and the Grenadines",2005,65.019,9.198,10307,"South/Latin America",112
 "Saint Vincent and the Grenadines",2006,80.692,12,13373,"South/Latin America",111
 "Saint Vincent and the Grenadines",2007,101.818,16,17734,"South/Latin America",110
@@ -2700,9 +2700,9 @@
 "Saint Vincent and the Grenadines",2015,103.869,49.4,52608,"South/Latin America",106
 "Saint Vincent and the Grenadines",2016,102.914,51.5,54575,"South/Latin America",115
 "Saint Vincent and the Grenadines",2017,105.479,53.7,56690,"South/Latin America",121
-"Saint Vincent and the Grenadines",2018,102.025,56,58966,"South/Latin America",108
-"Saint Vincent and the Grenadines",2019,87.145,0,0,"South/Latin America",172
-"Saint Vincent and the Grenadines",2020,87.488,0,0,"South/Latin America",167
+"Saint Vincent and the Grenadines",2018,102.025,56,58966,"South/Latin America",110
+"Saint Vincent and the Grenadines",2019,87.145,0,0,"South/Latin America",183
+"Saint Vincent and the Grenadines",2020,87.488,0,0,"South/Latin America",180
 "Samoa",2005,13.354,3.353,6324,"Asia & Pacific",154
 "Samoa",2006,25.155,4.469,8464,"Asia & Pacific",153
 "Samoa",2007,47.241,4.75,9048,"Asia & Pacific",159
@@ -2716,9 +2716,9 @@
 "Samoa",2015,62.279,25.407,51725,"Asia & Pacific",146
 "Samoa",2016,77.625,29.412,60458,"Asia & Pacific",150
 "Samoa",2017,63.583,33.611,69790,"Asia & Pacific",149
-"Samoa",2018,50.987,0,0,"Asia & Pacific",186
-"Samoa",2019,42.619,0,0,"Asia & Pacific",172
-"Samoa",2020,34.776,0,0,"Asia & Pacific",167
+"Samoa",2018,50.987,0,0,"Asia & Pacific",194
+"Samoa",2019,42.619,0,0,"Asia & Pacific",183
+"Samoa",2020,34.776,0,0,"Asia & Pacific",180
 "San Marino",2005,58.485,50.26,14842,"Europe",31
 "San Marino",2006,58.552,50.209,15054,"Europe",38
 "San Marino",2007,58.211,50.365,15308,"Europe",44
@@ -2729,12 +2729,12 @@
 "San Marino",2012,112.132,0,0,"Europe",213
 "San Marino",2013,112.985,0,0,"Europe",213
 "San Marino",2014,114.119,0,0,"Europe",213
-"San Marino",2015,110.075,0,0,"Europe",212
-"San Marino",2016,109.151,0,0,"Europe",216
+"San Marino",2015,110.075,0,0,"Europe",213
+"San Marino",2016,109.151,0,0,"Europe",217
 "San Marino",2017,112.857,60.182,20511,"Europe",102
-"San Marino",2018,113.956,0,0,"Europe",186
-"San Marino",2019,114.442,0,0,"Europe",172
-"San Marino",2020,114.939,0,0,"Europe",167
+"San Marino",2018,113.956,0,0,"Europe",194
+"San Marino",2019,114.442,0,0,"Europe",183
+"San Marino",2020,114.939,0,0,"Europe",180
 "Sao Tome and Principe",2005,7.591,13.759,22249,"Africa",95
 "Sao Tome and Principe",2006,11.395,14.182,23505,"Africa",105
 "Sao Tome and Principe",2007,18.099,14.59,24783,"Africa",114
@@ -2748,9 +2748,9 @@
 "Sao Tome and Principe",2015,92.749,25.82,51935,"Africa",143
 "Sao Tome and Principe",2016,87.61,28,57299,"Africa",153
 "Sao Tome and Principe",2017,84.004,29.931,62272,"Africa",156
-"Sao Tome and Principe",2018,77.056,31.9,67423,"Africa",141
-"Sao Tome and Principe",2019,77.078,32,68676,"Africa",138
-"Sao Tome and Principe",2020,79.487,33,72154,"Africa",137
+"Sao Tome and Principe",2018,77.056,31.9,67423,"Africa",144
+"Sao Tome and Principe",2019,77.078,32,68676,"Africa",142
+"Sao Tome and Principe",2020,79.487,33,72154,"Africa",142
 "Saudi Arabia",2005,59.473,12.705,3099731,"Middle east",100
 "Saudi Arabia",2006,80.414,19.46,4939393,"Middle east",89
 "Saudi Arabia",2007,112.767,30,7920020,"Middle east",74
@@ -2780,9 +2780,9 @@
 "Senegal",2015,102.614,21.7,3115294,"Africa",157
 "Senegal",2016,101.287,25.665,3785901,"Africa",156
 "Senegal",2017,102.199,29.643,4493243,"Africa",157
-"Senegal",2018,104.451,35.3,5497943,"Africa",136
-"Senegal",2019,109.721,39.5,6320309,"Africa",123
-"Senegal",2020,113.945,42.6,7001787,"Africa",121
+"Senegal",2018,104.451,35.3,5497943,"Africa",138
+"Senegal",2019,109.721,39.5,6320309,"Africa",125
+"Senegal",2020,113.945,42.6,7001787,"Africa",125
 "Serbia",2005,73.72,26.3,2059538,"Europe",63
 "Serbia",2006,89.376,27.2,2120183,"Europe",72
 "Serbia",2007,114.296,33.15,2571837,"Europe",68
@@ -2825,12 +2825,12 @@
 "Sierra Leone",2012,32.923,2.5,169715,"Africa",203
 "Sierra Leone",2013,58.275,4,278595,"Africa",199
 "Sierra Leone",2014,67.788,6.057,432534,"Africa",195
-"Sierra Leone",2015,78.877,6.344,464080,"Africa",199
-"Sierra Leone",2016,85.679,11.773,882273,"Africa",195
-"Sierra Leone",2017,88.47,13.237,1016275,"Africa",196
-"Sierra Leone",2018,83.072,15.8,1242083,"Africa",170
-"Sierra Leone",2019,86.134,16.8,1351867,"Africa",162
-"Sierra Leone",2020,86.301,18,1482115,"Africa",159
+"Sierra Leone",2015,78.877,6.344,464080,"Africa",200
+"Sierra Leone",2016,85.679,11.773,882273,"Africa",196
+"Sierra Leone",2017,88.47,13.237,1016275,"Africa",197
+"Sierra Leone",2018,83.072,15.8,1242083,"Africa",176
+"Sierra Leone",2019,86.134,16.8,1351867,"Africa",169
+"Sierra Leone",2020,86.301,18,1482115,"Africa",167
 "Singapore",2005,102.788,61,2650233,"Asia & Pacific",22
 "Singapore",2006,108.774,59,2647083,"Asia & Pacific",28
 "Singapore",2007,129.386,69.9,3259620,"Asia & Pacific",19
@@ -2889,12 +2889,12 @@
 "Solomon Islands",2012,54.337,6.997,39729,"Asia & Pacific",180
 "Solomon Islands",2013,56.553,8,46590,"Asia & Pacific",179
 "Solomon Islands",2014,64.164,9,53765,"Asia & Pacific",183
-"Solomon Islands",2015,70.419,10,61270,"Asia & Pacific",186
-"Solomon Islands",2016,67.25,11.001,69098,"Asia & Pacific",198
-"Solomon Islands",2017,73.161,11.924,76749,"Asia & Pacific",199
-"Solomon Islands",2018,73.834,0,0,"Asia & Pacific",186
-"Solomon Islands",2019,71.379,0,0,"Asia & Pacific",172
-"Solomon Islands",2020,69.007,0,0,"Asia & Pacific",167
+"Solomon Islands",2015,70.419,10,61270,"Asia & Pacific",187
+"Solomon Islands",2016,67.25,11.001,69098,"Asia & Pacific",199
+"Solomon Islands",2017,73.161,11.924,76749,"Asia & Pacific",200
+"Solomon Islands",2018,73.834,0,0,"Asia & Pacific",194
+"Solomon Islands",2019,71.379,0,0,"Asia & Pacific",183
+"Solomon Islands",2020,69.007,0,0,"Asia & Pacific",180
 "Somalia",2005,4.786,1.077,112767,"Arab States",181
 "Somalia",2006,5.11,1.1,118658,"Arab States",190
 "Somalia",2007,5.415,1.122,124771,"Arab States",195
@@ -2905,12 +2905,12 @@
 "Somalia",2012,18.088,1.377,171266,"Arab States",209
 "Somalia",2013,39.675,1.5,192787,"Arab States",209
 "Somalia",2014,40.973,1.63,216941,"Arab States",209
-"Somalia",2015,42.298,1.76,242245,"Arab States",210
-"Somalia",2016,46.9,1.88,268706,"Arab States",214
-"Somalia",2017,48.796,2.004,297886,"Arab States",213
-"Somalia",2018,50.992,0,0,"Arab States",186
-"Somalia",2019,53.274,0,0,"Arab States",172
-"Somalia",2020,55.646,0,0,"Arab States",167
+"Somalia",2015,42.298,1.76,242245,"Arab States",211
+"Somalia",2016,46.9,1.88,268706,"Arab States",215
+"Somalia",2017,48.796,2.004,297886,"Arab States",214
+"Somalia",2018,50.992,0,0,"Arab States",194
+"Somalia",2019,53.274,0,0,"Arab States",183
+"Somalia",2020,55.646,0,0,"Arab States",180
 "South Africa",2005,70.926,7.489,3670671,"Africa",119
 "South Africa",2006,81.795,7.607,3764908,"Africa",129
 "South Africa",2007,86.116,8.065,4032373,"Africa",136
@@ -2924,8 +2924,8 @@
 "South Africa",2015,158.883,51.919,29010587,"Africa",101
 "South Africa",2016,146.622,54,30468027,"Africa",105
 "South Africa",2017,155.232,56.167,31813890,"Africa",112
-"South Africa",2018,159.931,62.4,35779931,"Africa",95
-"South Africa",2019,165.6,68.2,39615373,"Africa",85
+"South Africa",2018,159.931,62.4,35779931,"Africa",96
+"South Africa",2019,165.6,68.2,39615373,"Africa",86
 "South Africa",2020,161.797,70,41161350,"Africa",92
 "South Asia",2005,7.699,2.556,0,"Other",161
 "South Asia",2006,14.844,2.992,0,"Other",161
@@ -2937,12 +2937,12 @@
 "South Asia",2012,67.373,10.112,0,"Other",168
 "South Asia",2013,69.775,11.317,0,"Other",169
 "South Asia",2014,73.596,12.846,0,"Other",173
-"South Asia",2015,76.078,14.175,0,"Other",178
-"South Asia",2016,83.642,16.13,0,"Other",182
+"South Asia",2015,76.078,14.175,0,"Other",179
+"South Asia",2016,83.642,16.13,0,"Other",183
 "South Asia",2017,86.704,17.889,0,"Other",187
-"South Asia",2018,87.363,19.838,0,"Other",161
-"South Asia",2019,85.743,27.271,0,"Other",144
-"South Asia",2020,86.065,38.562,0,"Other",125
+"South Asia",2018,87.363,19.838,0,"Other",166
+"South Asia",2019,85.743,27.271,0,"Other",148
+"South Asia",2020,86.065,38.562,0,"Other",129
 "South Korea",2005,78.73,73.5,35198838,"Asia & Pacific",7
 "South Korea",2006,82.236,78.1,37526540,"Asia & Pacific",7
 "South Korea",2007,90.485,78.8,37997834,"Asia & Pacific",8
@@ -2969,12 +2969,12 @@
 "South Sudan",2012,22.742,0,0,"Africa",213
 "South Sudan",2013,27.554,2.2,244333,"Africa",206
 "South Sudan",2014,27.249,2.6,291545,"Africa",208
-"South Sudan",2015,27.054,3,335829,"Africa",206
-"South Sudan",2016,24.925,3.5,387314,"Africa",211
-"South Sudan",2017,25.561,4.1,436987,"Africa",210
-"South Sudan",2018,17.459,4.8,498976,"Africa",183
-"South Sudan",2019,20.086,5.6,585070,"Africa",171
-"South Sudan",2020,12.007,6.5,689405,"Africa",166
+"South Sudan",2015,27.054,3,335829,"Africa",207
+"South Sudan",2016,24.925,3.5,387314,"Africa",212
+"South Sudan",2017,25.561,4.1,436987,"Africa",211
+"South Sudan",2018,17.459,4.8,498976,"Africa",191
+"South Sudan",2019,20.086,5.6,585070,"Africa",182
+"South Sudan",2020,12.007,6.5,689405,"Africa",179
 "Spain",2005,96.99,47.88,20916557,"Europe",34
 "Spain",2006,102.161,50.37,22375776,"Europe",37
 "Spain",2007,106.589,55.11,24934952,"Europe",39
@@ -3001,12 +3001,12 @@
 "Sri Lanka",2012,94.157,0,0,"Asia & Pacific",213
 "Sri Lanka",2013,98.316,0,0,"Asia & Pacific",213
 "Sri Lanka",2014,106.419,10.5,2230142,"Asia & Pacific",180
-"Sri Lanka",2015,114.308,12.1,2581740,"Asia & Pacific",181
-"Sri Lanka",2016,122.72,15.1,3235250,"Asia & Pacific",186
+"Sri Lanka",2015,114.308,12.1,2581740,"Asia & Pacific",182
+"Sri Lanka",2016,122.72,15.1,3235250,"Asia & Pacific",187
 "Sri Lanka",2017,133.468,21.3,4580952,"Asia & Pacific",177
-"Sri Lanka",2018,142.651,26,5610985,"Asia & Pacific",152
-"Sri Lanka",2019,132.963,29,6278403,"Asia & Pacific",141
-"Sri Lanka",2020,138.841,35,7600277,"Asia & Pacific",134
+"Sri Lanka",2018,142.651,26,5610985,"Asia & Pacific",156
+"Sri Lanka",2019,132.963,29,6278403,"Asia & Pacific",145
+"Sri Lanka",2020,138.841,35,7600277,"Asia & Pacific",139
 "Sub-Saharan Africa",2005,11.997,2.008,0,"Other",164
 "Sub-Saharan Africa",2006,17.691,2.662,0,"Other",166
 "Sub-Saharan Africa",2007,23.077,3.44,0,"Other",171
@@ -3017,12 +3017,12 @@
 "Sub-Saharan Africa",2012,59.326,9.305,0,"Other",172
 "Sub-Saharan Africa",2013,65.541,11.192,0,"Other",171
 "Sub-Saharan Africa",2014,70.28,13.409,0,"Other",171
-"Sub-Saharan Africa",2015,75.543,16.123,0,"Other",173
+"Sub-Saharan Africa",2015,75.543,16.123,0,"Other",174
 "Sub-Saharan Africa",2016,73.582,17.925,0,"Other",179
 "Sub-Saharan Africa",2017,72.868,20.832,0,"Other",179
-"Sub-Saharan Africa",2018,82.198,24.716,0,"Other",155
-"Sub-Saharan Africa",2019,79.651,27.335,0,"Other",143
-"Sub-Saharan Africa",2020,83.087,30.043,0,"Other",138
+"Sub-Saharan Africa",2018,82.198,24.716,0,"Other",159
+"Sub-Saharan Africa",2019,79.651,27.335,0,"Other",147
+"Sub-Saharan Africa",2020,83.087,30.043,0,"Other",144
 "Sudan",2005,4.75,1.292,381676,"Arab States",175
 "Sudan",2006,11.835,0,0,"Arab States",209
 "Sudan",2007,20.204,8.66,2701155,"Arab States",133
@@ -3033,12 +3033,12 @@
 "Sudan",2012,76.418,0,0,"Arab States",213
 "Sudan",2013,74.605,0,0,"Arab States",213
 "Sudan",2014,73.192,0,0,"Arab States",213
-"Sudan",2015,71.816,0,0,"Arab States",212
-"Sudan",2016,69.784,14.1,5552181,"Arab States",188
+"Sudan",2015,71.816,0,0,"Arab States",213
+"Sudan",2016,69.784,14.1,5552181,"Arab States",189
 "Sudan",2017,70.183,18.6,7566447,"Arab States",185
-"Sudan",2018,72.008,24.6,10331770,"Arab States",156
-"Sudan",2019,77.112,25.9,11197112,"Arab States",146
-"Sudan",2020,80.264,28.4,12621097,"Arab States",142
+"Sudan",2018,72.008,24.6,10331770,"Arab States",160
+"Sudan",2019,77.112,25.9,11197112,"Arab States",151
+"Sudan",2020,80.264,28.4,12621097,"Arab States",148
 "Suriname",2005,46.607,6.403,33055,"South/Latin America",125
 "Suriname",2006,63.329,9.5,49591,"South/Latin America",119
 "Suriname",2007,74.338,14.11,74495,"South/Latin America",116
@@ -3052,8 +3052,8 @@
 "Suriname",2015,134.216,42.764,246096,"South/Latin America",117
 "Suriname",2016,142.839,45.4,263984,"South/Latin America",124
 "Suriname",2017,139.505,48.945,287585,"South/Latin America",125
-"Suriname",2018,130.605,53.8,319426,"South/Latin America",112
-"Suriname",2019,139.987,68.75,412710,"South/Latin America",80
+"Suriname",2018,130.605,53.8,319426,"South/Latin America",114
+"Suriname",2019,139.987,68.75,412710,"South/Latin America",81
 "Suriname",2020,153.305,70.06,425312,"South/Latin America",91
 "Sweden",2005,100.723,84.83,7678590,"Europe",2
 "Sweden",2006,105.616,87.76,7990306,"Europe",2
@@ -3100,9 +3100,9 @@
 "Syria",2015,79.524,29.98,5757673,"Asia & Pacific",138
 "Syria",2016,76.435,31.87,6043836,"Asia & Pacific",145
 "Syria",2017,89.999,32.7,6207562,"Asia & Pacific",151
-"Syria",2018,101.09,33.77,6528911,"Asia & Pacific",138
-"Syria",2019,113.576,34.65,6964045,"Asia & Pacific",131
-"Syria",2020,95.198,35.78,7432437,"Asia & Pacific",131
+"Syria",2018,101.09,33.77,6528911,"Asia & Pacific",140
+"Syria",2019,113.576,34.65,6964045,"Asia & Pacific",134
+"Syria",2020,95.198,35.78,7432437,"Asia & Pacific",136
 "Tajikistan",2005,3.903,0.299,20697,"Asia & Pacific",202
 "Tajikistan",2006,31.058,3.772,266235,"Asia & Pacific",157
 "Tajikistan",2007,30.198,7.198,517393,"Asia & Pacific",140
@@ -3116,9 +3116,9 @@
 "Tajikistan",2015,100.414,18.98,1617868,"Asia & Pacific",161
 "Tajikistan",2016,108.5,20.47,1786074,"Asia & Pacific",174
 "Tajikistan",2017,111.528,21.96,1960046,"Asia & Pacific",175
-"Tajikistan",2018,109.88,0,0,"Asia & Pacific",186
-"Tajikistan",2019,117.959,0,0,"Asia & Pacific",172
-"Tajikistan",2020,121.456,0,0,"Asia & Pacific",167
+"Tajikistan",2018,109.88,0,0,"Asia & Pacific",194
+"Tajikistan",2019,117.959,0,0,"Asia & Pacific",183
+"Tajikistan",2020,121.456,0,0,"Asia & Pacific",180
 "Tanzania",2005,7.709,1.1,433835,"Other",180
 "Tanzania",2006,14.183,1.3,527307,"Other",183
 "Tanzania",2007,20.284,1.6,667464,"Other",190
@@ -3129,12 +3129,12 @@
 "Tanzania",2012,57.848,3.95,1887552,"Other",195
 "Tanzania",2013,56.603,4.4,2167161,"Other",198
 "Tanzania",2014,63.776,7,3557019,"Other",188
-"Tanzania",2015,77.047,10,5254282,"Other",186
-"Tanzania",2016,75.485,13.504,7346546,"Other",191
-"Tanzania",2017,73.095,16,9002726,"Other",191
-"Tanzania",2018,77.241,19,11037184,"Other",163
-"Tanzania",2019,82.208,20,11974517,"Other",155
-"Tanzania",2020,85.747,22,13574994,"Other",153
+"Tanzania",2015,77.047,10,5254282,"Other",187
+"Tanzania",2016,75.485,13.504,7346546,"Other",192
+"Tanzania",2017,73.095,16,9002726,"Other",192
+"Tanzania",2018,77.241,19,11037184,"Other",168
+"Tanzania",2019,82.208,20,11974517,"Other",161
+"Tanzania",2020,85.747,22,13574994,"Other",160
 "Thailand",2005,46.564,15.026,9890321,"Asia & Pacific",92
 "Thailand",2006,60.969,17.161,11380905,"Asia & Pacific",95
 "Thailand",2007,80.043,20.03,13385399,"Asia & Pacific",100
@@ -3148,8 +3148,8 @@
 "Thailand",2015,149.811,39.316,27637039,"Asia & Pacific",125
 "Thailand",2016,173.505,47.505,33541847,"Asia & Pacific",121
 "Thailand",2017,175.596,52.892,37499430,"Asia & Pacific",122
-"Thailand",2018,180.183,56.817,40413030,"Asia & Pacific",107
-"Thailand",2019,186.159,66.652,47528353,"Asia & Pacific",90
+"Thailand",2018,180.183,56.817,40413030,"Asia & Pacific",109
+"Thailand",2019,186.159,66.652,47528353,"Asia & Pacific",91
 "Thailand",2020,166.61,77.844,55639332,"Asia & Pacific",68
 "Timor",2005,3.323,0.099,960,"Other",208
 "Timor",2006,4.831,0.5,4973,"Other",201
@@ -3164,9 +3164,9 @@
 "Timor",2015,115.077,18.6,224283,"Other",162
 "Timor",2016,122.377,21.2,259608,"Other",171
 "Timor",2017,125.205,24.2,300864,"Other",169
-"Timor",2018,115.814,27.6,348271,"Other",151
-"Timor",2019,110.218,29,371328,"Other",141
-"Timor",2020,104.511,29.1,378299,"Other",141
+"Timor",2018,115.814,27.6,348271,"Other",154
+"Timor",2019,110.218,29,371328,"Other",145
+"Timor",2020,104.511,29.1,378299,"Other",147
 "Togo",2005,7.727,1.8,102809,"Africa",168
 "Togo",2006,12.286,2,117485,"Africa",175
 "Togo",2007,20.106,2.2,133046,"Africa",178
@@ -3177,12 +3177,12 @@
 "Togo",2012,48.898,4,277065,"Africa",194
 "Togo",2013,61.296,4.5,319781,"Africa",196
 "Togo",2014,63.269,5.7,415438,"Africa",200
-"Togo",2015,66.299,7.12,532094,"Africa",197
-"Togo",2016,73.308,11.31,866500,"Africa",196
-"Togo",2017,78.846,12.36,970624,"Africa",197
-"Togo",2018,77.886,15.5,1247235,"Africa",172
-"Togo",2019,77.195,19.3,1590917,"Africa",157
-"Togo",2020,78.714,24,2026220,"Africa",150
+"Togo",2015,66.299,7.12,532094,"Africa",198
+"Togo",2016,73.308,11.31,866500,"Africa",197
+"Togo",2017,78.846,12.36,970624,"Africa",198
+"Togo",2018,77.886,15.5,1247235,"Africa",178
+"Togo",2019,77.195,19.3,1590917,"Africa",163
+"Togo",2020,78.714,24,2026220,"Africa",157
 "Tonga",2005,29.604,4.908,5185,"Asia & Pacific",140
 "Tonga",2006,29.547,5.854,6217,"Asia & Pacific",139
 "Tonga",2007,45.354,7.18,7657,"Asia & Pacific",141
@@ -3196,9 +3196,9 @@
 "Tonga",2015,72.923,38.651,41024,"Asia & Pacific",126
 "Tonga",2016,79.104,39.95,42236,"Asia & Pacific",132
 "Tonga",2017,105.824,41.249,43489,"Asia & Pacific",136
-"Tonga",2018,104.594,0,0,"Asia & Pacific",186
-"Tonga",2019,59.433,0,0,"Asia & Pacific",172
-"Tonga",2020,58.659,0,0,"Asia & Pacific",167
+"Tonga",2018,104.594,0,0,"Asia & Pacific",194
+"Tonga",2019,59.433,0,0,"Asia & Pacific",183
+"Tonga",2020,58.659,0,0,"Asia & Pacific",180
 "Trinidad and Tobago",2005,71.276,28.977,396714,"South/Latin America",59
 "Trinidad and Tobago",2006,116.601,30.004,413131,"South/Latin America",61
 "Trinidad and Tobago",2007,115.388,32.3,447310,"South/Latin America",70
@@ -3212,9 +3212,9 @@
 "Trinidad and Tobago",2015,154.954,65.1,950577,"South/Latin America",74
 "Trinidad and Tobago",2016,157.223,67.8,996208,"South/Latin America",77
 "Trinidad and Tobago",2017,146.716,70.6,1043903,"South/Latin America",73
-"Trinidad and Tobago",2018,141.929,0,0,"South/Latin America",186
-"Trinidad and Tobago",2019,155.109,0,0,"South/Latin America",172
-"Trinidad and Tobago",2020,142.052,0,0,"South/Latin America",167
+"Trinidad and Tobago",2018,141.929,0,0,"South/Latin America",194
+"Trinidad and Tobago",2019,155.109,0,0,"South/Latin America",183
+"Trinidad and Tobago",2020,142.052,0,0,"South/Latin America",180
 "Tunisia",2005,56.207,9.655,1003004,"Arab States",111
 "Tunisia",2006,71.943,12.986,1361438,"Arab States",108
 "Tunisia",2007,76.107,17.1,1809248,"Arab States",106
@@ -3228,8 +3228,8 @@
 "Tunisia",2015,130.554,46.5,5374367,"Arab States",111
 "Tunisia",2016,126.346,49.6,5796090,"Arab States",118
 "Tunisia",2017,125.37,55.5,6555368,"Arab States",115
-"Tunisia",2018,127.707,64.191,7659915,"Arab States",89
-"Tunisia",2019,126.305,66.7,8036895,"Arab States",89
+"Tunisia",2018,127.707,64.191,7659915,"Arab States",90
+"Tunisia",2019,126.305,66.7,8036895,"Arab States",90
 "Tunisia",2020,125.673,71.9,8744277,"Arab States",85
 "Turkey",2005,64.222,15.46,10621749,"Europe",88
 "Turkey",2006,76.593,18.24,12695282,"Europe",91
@@ -3257,12 +3257,12 @@
 "Turkmenistan",2012,111.999,7.196,392796,"Asia & Pacific",177
 "Turkmenistan",2013,114.142,9.6,533770,"Asia & Pacific",175
 "Turkmenistan",2014,131.827,12.2,690905,"Asia & Pacific",175
-"Turkmenistan",2015,140.909,14.997,864778,"Asia & Pacific",174
+"Turkmenistan",2015,140.909,14.997,864778,"Asia & Pacific",175
 "Turkmenistan",2016,151.438,17.99,1055774,"Asia & Pacific",178
 "Turkmenistan",2017,162.861,21.251,1268342,"Asia & Pacific",178
-"Turkmenistan",2018,160.266,21.251,1268342,"Asia & Pacific",186
-"Turkmenistan",2019,157.806,21.251,1268342,"Asia & Pacific",172
-"Turkmenistan",2020,155.475,21.251,1268342,"Asia & Pacific",167
+"Turkmenistan",2018,160.266,21.251,1268342,"Asia & Pacific",164
+"Turkmenistan",2019,157.806,21.251,1268342,"Asia & Pacific",160
+"Turkmenistan",2020,155.475,21.251,1268342,"Asia & Pacific",162
 "Tuvalu",2005,13,8.3,824,"Asia & Pacific",115
 "Tuvalu",2006,15.81,9.1,915,"Asia & Pacific",120
 "Tuvalu",2007,17.611,10,1017,"Asia & Pacific",128
@@ -3276,9 +3276,9 @@
 "Tuvalu",2015,59.465,27.3,2975,"Asia & Pacific",140
 "Tuvalu",2016,67.706,31,3372,"Asia & Pacific",147
 "Tuvalu",2017,70.361,35.2,3819,"Asia & Pacific",146
-"Tuvalu",2018,73.862,0,0,"Asia & Pacific",186
-"Tuvalu",2019,77.28,0,0,"Asia & Pacific",172
-"Tuvalu",2020,76.323,0,0,"Asia & Pacific",167
+"Tuvalu",2018,73.862,0,0,"Asia & Pacific",194
+"Tuvalu",2019,77.28,0,0,"Asia & Pacific",183
+"Tuvalu",2020,76.323,0,0,"Asia & Pacific",180
 "Uganda",2005,4.751,1.742,486887,"Africa",170
 "Uganda",2006,7.031,2.529,727779,"Africa",168
 "Uganda",2007,14.228,3.672,1087996,"Africa",169
@@ -3289,12 +3289,12 @@
 "Uganda",2012,47.329,4.8,1645118,"Africa",188
 "Uganda",2013,50.62,5.1,1798952,"Africa",189
 "Uganda",2014,55.175,5.4,1962173,"Africa",202
-"Uganda",2015,52.897,5.7,2136209,"Africa",202
-"Uganda",2016,57.601,6,2324898,"Africa",207
-"Uganda",2017,60.605,8.1,3250295,"Africa",206
-"Uganda",2018,57.273,10.9,4525178,"Africa",177
-"Uganda",2019,57.366,14.7,6313514,"Africa",165
-"Uganda",2020,60.534,19.9,8836517,"Africa",156
+"Uganda",2015,52.897,5.7,2136209,"Africa",203
+"Uganda",2016,57.601,6,2324898,"Africa",208
+"Uganda",2017,60.605,8.1,3250295,"Africa",207
+"Uganda",2018,57.273,10.9,4525178,"Africa",184
+"Uganda",2019,57.366,14.7,6313514,"Africa",173
+"Uganda",2020,60.534,19.9,8836517,"Africa",164
 "Ukraine",2005,64.005,3.75,1759113,"Europe",149
 "Ukraine",2006,105.277,4.506,2099518,"Europe",151
 "Ukraine",2007,119.088,6.55,3033506,"Europe",146
@@ -3308,7 +3308,7 @@
 "Ukraine",2015,142.003,48.885,21989568,"Europe",108
 "Ukraine",2016,133.169,53.001,23762225,"Europe",111
 "Ukraine",2017,131.357,58.889,26298428,"Europe",105
-"Ukraine",2018,127.754,62.553,27802970,"Europe",94
+"Ukraine",2018,127.754,62.553,27802970,"Europe",95
 "Ukraine",2019,130.629,70.125,31002966,"Europe",75
 "Ukraine",2020,129.341,75.038,32948894,"Europe",74
 "United Arab Emirates",2005,98.821,40,1712398,"Middle east",40
@@ -3372,8 +3372,8 @@
 "Upper middle income",2015,105.661,52.619,0,"Other",98
 "Upper middle income",2016,108.023,56.084,0,"Other",103
 "Upper middle income",2017,111.202,58.681,0,"Other",107
-"Upper middle income",2018,118.14,63.114,0,"Other",91
-"Upper middle income",2019,121.668,67.655,0,"Other",88
+"Upper middle income",2018,118.14,63.114,0,"Other",92
+"Upper middle income",2019,121.668,67.655,0,"Other",89
 "Upper middle income",2020,119.429,73.38,0,"Other",79
 "Uruguay",2005,34.768,20.088,666459,"South/Latin America",80
 "Uruguay",2006,70.067,29.4,976751,"South/Latin America",63
@@ -3404,7 +3404,7 @@
 "Uzbekistan",2015,70.429,42.8,13246350,"Asia & Pacific",116
 "Uzbekistan",2016,73.995,46.791,14717533,"Asia & Pacific",122
 "Uzbekistan",2017,75.925,48.7,15557545,"Asia & Pacific",126
-"Uzbekistan",2018,71.517,55.2,17912167,"Asia & Pacific",109
+"Uzbekistan",2018,71.517,55.2,17912167,"Asia & Pacific",111
 "Uzbekistan",2019,101.208,70.4,23215770,"Asia & Pacific",74
 "Uzbekistan",2020,99.754,71.1,23837456,"Asia & Pacific",86
 "Vanuatu",2005,6.065,5.082,11061,"Asia & Pacific",139
@@ -3420,9 +3420,9 @@
 "Vanuatu",2015,64.478,22.351,61790,"Asia & Pacific",154
 "Vanuatu",2016,78.541,24,67977,"Asia & Pacific",162
 "Vanuatu",2017,79.863,25.72,74652,"Asia & Pacific",164
-"Vanuatu",2018,85.905,0,0,"Asia & Pacific",186
-"Vanuatu",2019,88.441,0,0,"Asia & Pacific",172
-"Vanuatu",2020,80.168,0,0,"Asia & Pacific",167
+"Vanuatu",2018,85.905,0,0,"Asia & Pacific",194
+"Vanuatu",2019,88.441,0,0,"Asia & Pacific",183
+"Vanuatu",2020,80.168,0,0,"Asia & Pacific",180
 "Venezuela",2005,47.274,12.553,3347733,"South/Latin America",101
 "Venezuela",2006,69.979,15.225,4126214,"South/Latin America",101
 "Venezuela",2007,87.421,20.83,5733477,"South/Latin America",94
@@ -3436,9 +3436,9 @@
 "Venezuela",2015,96.715,58,17707239,"South/Latin America",84
 "Venezuela",2016,92.461,60,18444878,"South/Latin America",89
 "Venezuela",2017,83.305,61.6,18827072,"South/Latin America",99
-"Venezuela",2018,71.766,61.6,18827072,"South/Latin America",186
-"Venezuela",2019,64.793,61.6,18827072,"South/Latin America",172
-"Venezuela",2020,58.179,61.6,18827072,"South/Latin America",167
+"Venezuela",2018,71.766,61.6,18827072,"South/Latin America",99
+"Venezuela",2019,64.793,61.6,18827072,"South/Latin America",100
+"Venezuela",2020,58.179,61.6,18827072,"South/Latin America",106
 "Vietnam",2005,11.443,12.74,10592244,"Asia & Pacific",99
 "Vietnam",2006,22.327,17.255,14485516,"Asia & Pacific",94
 "Vietnam",2007,52.709,20.755,17592787,"Asia & Pacific",97
@@ -3453,7 +3453,7 @@
 "Vietnam",2016,128.791,53,49357060,"Asia & Pacific",112
 "Vietnam",2017,126.866,58.14,54670814,"Asia & Pacific",108
 "Vietnam",2018,147.195,69.848,66295694,"Asia & Pacific",77
-"Vietnam",2019,141.227,68.662,65761807,"Asia & Pacific",82
+"Vietnam",2019,141.227,68.662,65761807,"Asia & Pacific",83
 "Vietnam",2020,142.733,70.3,67944025,"Asia & Pacific",89
 "Yemen",2005,11.327,1.049,223568,"Middle east",182
 "Yemen",2006,14.394,1.248,274101,"Middle east",186
@@ -3468,9 +3468,9 @@
 "Yemen",2015,56.691,24.085,6868328,"Middle east",149
 "Yemen",2016,60.486,24.579,7195320,"Middle east",159
 "Yemen",2017,55.175,26.718,8024694,"Middle east",160
-"Yemen",2018,53.679,26.718,8024694,"Middle east",186
-"Yemen",2019,52.253,26.718,8024694,"Middle east",172
-"Yemen",2020,50.889,26.718,8024694,"Middle east",167
+"Yemen",2018,53.679,26.718,8024694,"Middle east",155
+"Yemen",2019,52.253,26.718,8024694,"Middle east",149
+"Yemen",2020,50.889,26.718,8024694,"Middle east",150
 "Zambia",2005,8.009,1.3,150343,"Africa",174
 "Zambia",2006,13.663,1.6,191545,"Africa",178
 "Zambia",2007,21.107,1.9,235639,"Africa",181
@@ -3481,12 +3481,12 @@
 "Zambia",2012,72.759,4.1,604531,"Africa",193
 "Zambia",2013,69.646,4.8,731279,"Africa",194
 "Zambia",2014,65.682,6.5,1022957,"Africa",192
-"Zambia",2015,72.785,8.8,1429844,"Africa",191
-"Zambia",2016,73.438,10.3,1727079,"Africa",200
-"Zambia",2017,79.737,12.2,2110363,"Africa",198
-"Zambia",2018,89.157,14.3,2550533,"Africa",175
-"Zambia",2019,96.414,16.8,3087920,"Africa",162
-"Zambia",2020,103.918,19.8,3747688,"Africa",157
+"Zambia",2015,72.785,8.8,1429844,"Africa",192
+"Zambia",2016,73.438,10.3,1727079,"Africa",201
+"Zambia",2017,79.737,12.2,2110363,"Africa",199
+"Zambia",2018,89.157,14.3,2550533,"Africa",181
+"Zambia",2019,96.414,16.8,3087920,"Africa",169
+"Zambia",2020,103.918,19.8,3747688,"Africa",165
 "Zimbabwe",2005,5.358,2.4,293394,"Africa",162
 "Zimbabwe",2006,6.986,2.4,295932,"Africa",169
 "Zimbabwe",2007,10.001,3,373517,"Africa",172
@@ -3500,6 +3500,6 @@
 "Zimbabwe",2015,92.347,22.743,3219232,"Africa",152
 "Zimbabwe",2016,91.793,23.12,3341464,"Africa",166
 "Zimbabwe",2017,98.985,24.4,3599269,"Africa",167
-"Zimbabwe",2018,89.405,25,3763048,"Africa",153
-"Zimbabwe",2019,90.102,25.1,3854006,"Africa",147
-"Zimbabwe",2020,88.756,29.3,4591211,"Africa",140
+"Zimbabwe",2018,89.405,25,3763048,"Africa",157
+"Zimbabwe",2019,90.102,25.1,3854006,"Africa",152
+"Zimbabwe",2020,88.756,29.3,4591211,"Africa",146
