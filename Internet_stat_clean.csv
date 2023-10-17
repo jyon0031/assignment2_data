@@ -508,9 +508,9 @@ Cambodia,2014,133.896,14,2129514,Asia & Pacific,169
 Cambodia,2015,134.334,18,2775155,Asia & Pacific,166
 Cambodia,2016,126.317,32.398,5062124,Asia & Pacific,144
 Cambodia,2017,116.013,32.9,5208343,Asia & Pacific,150
-Cambodia,2018,119.492,0,0,Asia & Pacific,186
-Cambodia,2019,129.916,0,0,Asia & Pacific,172
-Cambodia,2020,126.125,0,0,Asia & Pacific,167
+Cambodia,2018,119.492,32.9,5208343,Asia & Pacific,186
+Cambodia,2019,129.916,32.9,5208343,Asia & Pacific,172
+Cambodia,2020,126.125,32.9,5208343,Asia & Pacific,167
 Cameroon,2005,12.702,1.403,242311,Africa,173
 Cameroon,2006,17.208,2.029,360129,Africa,173
 Cameroon,2007,24.217,2.93,534780,Africa,173
@@ -1502,7 +1502,7 @@ Iraq,2016,91.359,37.67,14577513,Middle east,137
 Iraq,2017,88.983,41.94,16617112,Middle east,133
 Iraq,2018,95.04,43.3,17575773,Middle east,123
 Iraq,2019,94.696,60,24938114,Middle east,102
-Iraq,2020,93.17,0,0,Middle east,167
+Iraq,2020,93.17,60,24938114,Middle east,167
 Ireland,2005,103.11,41.61,1714840,Europe,38
 Ireland,2006,110.862,54.82,2321522,Europe,31
 Ireland,2007,114.939,61.158,2666406,Europe,31
@@ -3436,9 +3436,9 @@ Venezuela,2014,101.615,57,17210158,South/Latin America,80
 Venezuela,2015,96.715,58,17707239,South/Latin America,84
 Venezuela,2016,92.461,60,18444878,South/Latin America,89
 Venezuela,2017,83.305,61.6,18827072,South/Latin America,99
-Venezuela,2018,71.766,0,0,South/Latin America,186
-Venezuela,2019,64.793,0,0,South/Latin America,172
-Venezuela,2020,58.179,0,0,South/Latin America,167
+Venezuela,2018,71.766,61.6,18827072,South/Latin America,186
+Venezuela,2019,64.793,61.6,18827072,South/Latin America,172
+Venezuela,2020,58.179,61.6,18827072,South/Latin America,167
 Vietnam,2005,11.443,12.74,10592244,Asia & Pacific,99
 Vietnam,2006,22.327,17.255,14485516,Asia & Pacific,94
 Vietnam,2007,52.709,20.755,17592787,Asia & Pacific,97
