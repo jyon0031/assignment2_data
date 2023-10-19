@@ -3,7 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/jyon0031/assignment2_data/main/Global_stat.csv"
   },
-  "width": 400,
+  "width": 300,
   "height": 200,
   "title": "Internet Access vs. No Internet Access trend",
   "mark": "area",
