@@ -4,7 +4,7 @@
     "url": "https://raw.githubusercontent.com/jyon0031/assignment2_data/main/Internet_stat_clean.csv",
     "format": {"type": "csv"}
   },
-  "width": 200,
+  "width": 400,
   "height": 200,
   "transform": [
     {
