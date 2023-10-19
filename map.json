@@ -35,19 +35,6 @@
     },
     {"filter": "datum.Year==year"}
   ],
-  "params": [
-    {
-      "name": "year",
-      "value": 2020,
-      "bind": {
-        "input": "range",
-        "min": 2005,
-        "max": 2020,
-        "step": 1,
-        "name": "Year select:"
-      }
-    }
-  ],
   "projection": {"type": "equirectangular"},
   "layer": [
     {
@@ -89,8 +76,7 @@
         ]
       }
     }
-  ],
-  "config": {}
+  ]
 },
     {
       "title": "GDP vs. Internet Users Percentage by Region",
@@ -104,19 +90,7 @@
     {"filter": "datum.GDP > 0"},
     {"filter": "datum.Percentage > 0"}
   ],
-  "params": [
-    {
-      "name": "year",
-      "value": 2005,
-      "bind": {
-        "input": "range",
-        "min": 2005,
-        "max": 2020,
-        "step": 1,
-        "name": "Year:"
-      }
-    }
-  ],
+
   "mark": "circle",
   "encoding": {
     "x": {"field": "GDP", 
@@ -128,7 +102,7 @@
     "y": {
       "field": "Percentage",
       "type": "quantitative",
-      "title": "Percentage of Internet Users",
+      "title": "Percentage of Internet Users"
     },
     "color": {
       "field": "region",
@@ -143,7 +117,6 @@
     ]
   }
 }
-    
   ],
   "config": {"title": {"font": "sans-serif", "fontSize": 15}}
 }
