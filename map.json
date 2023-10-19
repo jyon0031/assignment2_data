@@ -80,7 +80,7 @@
 },
     {
       "title": "GDP vs. Internet Users Percentage by Region",
-      "width": 800,
+      "width": 650,
       "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/jyon0031/assignment2_data/main/Internet_stat_clean.csv"
