@@ -16,7 +16,7 @@
   "vconcat": [
     {
       "title": "Internet Users (%) by Country",
-      "width": 400,
+      "width": 600,
       "height": 400,
         "data": {
     "url": "https://raw.githubusercontent.com/jyon0031/assignment2_data/main/Internet_stat_clean.csv"
@@ -80,7 +80,7 @@
 },
     {
       "title": "GDP vs. Internet Users Percentage by Region",
-      "width": 400,
+      "width": 600,
       "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/jyon0031/assignment2_data/main/Internet_stat_clean.csv"
