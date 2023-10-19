@@ -5,7 +5,7 @@
     "format": {"type": "csv"}
   },
   "width": 400,
-  "height": 200,
+  "height": 100,
   "transform": [
     {
       "filter": "datum.Entity === 'High income' || datum.Entity === 'Low income'|| datum.Entity === 'Middle income'"
