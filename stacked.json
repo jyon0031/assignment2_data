@@ -1,0 +1,52 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jyon0031/assignment2_data/main/Global_stat.csv"
+  },
+  "width": 800,
+  "height": 400,
+  "title": "Internet Access vs. No Internet Access trend",
+  "mark": "area",
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal", "axis": {"title": "Year"}},
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "axis": {"title": "Population (millions)"},
+      "stack": "zero"
+    },
+    "color": {
+      "field": "Population Segment",
+      "type": "nominal",
+      "legend": {"title": "Population Segment"},
+      "scale": {"range": ["#6ec0e6", "#89db81"]}
+    },
+    "tooltip": [
+      {"field": "Year", "type": "ordinal", "title": "Year"},
+      {
+        "field": "Population Segment",
+        "type": "nominal",
+        "title": "Population Segment"
+      },
+      {
+        "field": "value",
+        "type": "quantitative",
+        "title": "Population (millions)"
+      }
+    ]
+  },
+  "transform": [
+    {
+      "fold": [
+        "NumberofInternetUsers(million)",
+        "NumberofUserswithoutinternet(millions)"
+      ],
+      "as": ["field", "value"]
+    },
+    {
+      "calculate": "datum.field === 'NumberofInternetUsers(million)' ? 'Population with Internet ' : 'Population with no Internet'",
+      "as": "Population Segment"
+    }
+  ],
+  "config": {"title": {"font": "sans-serif", "fontSize": 15}}
+}

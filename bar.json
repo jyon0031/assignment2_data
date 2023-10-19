@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jyon0031/3171_minwage/main/Global_stat.csv"
+  },
+    "width": 800,
+  "height": 400,
+  "title": "Trend of Internet Access Percentage Over the Years",
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal", "title": "Year"},
+        "y": {
+          "field": "% of population with internet access",
+          "type": "quantitative",
+          "title": "Global (%) Population with Internet Access"
+        }
+      }
+    },
+    {
+      "mark": "point",
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {
+          "field": "% of population with internet access",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {"field": "Year", "type": "ordinal"},
+          {
+            "field": "% of population with internet access",
+            "type": "quantitative",
+            "title": "Population with Internet Access (%):"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "bottom",
+        "dx": -30
+      },
+      "data": {
+        "values": [
+          {"year": "2020", "value": 70, "annotation": "Covid19 peak"},
+          {"year": "2007", "value": 22, "annotation": "Iphone"},
+          {"year": "2009", "value": 26, "annotation": "Galaxy phone"}
+        ]
+      },
+      "encoding": {
+        "x": {"field": "year", "type": "ordinal"},
+        "y": {"field": "value", "type": "quantitative"},
+        "text": {"field": "annotation", "type": "nominal"}
+      }
+    }
+  ],
+  "config": {"title": {"font": "sans-serif", "fontSize": 15}}
+}

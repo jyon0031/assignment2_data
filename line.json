@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jyon0031/assignment2_data/main/Internet_stat_clean.csv",
+    "format": {"type": "csv"}
+  },
+  "width": 800,
+  "height": 400,
+  "transform": [
+    {
+      "filter": "datum.Entity === 'High income' || datum.Entity === 'Low income'|| datum.Entity === 'Middle income'"
+    }
+  ],
+  "title": "Internet Access(%) Trend based on income group",
+  "layer": [
+    {
+      "mark": "line",
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal", "title": "Year"},
+        "y": {
+          "field": "Percentage",
+          "type": "quantitative",
+          "title": "Internet Access Percentage"
+        },
+        "color": {
+          "field": "Entity",
+          "type": "nominal",
+          "legend": {"title": "Country"}
+        }
+      }
+    },
+    {
+      "mark": "point",
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"field": "Percentage", "type": "quantitative"},
+        "color": {
+          "field": "Entity",
+          "type": "nominal"
+        },
+        "tooltip": [
+          {"field": "Year", "type": "ordinal"},
+          {
+            "field": "Percentage",
+            "type": "quantitative",
+            "title": "Internet Access Percentage"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {"title": {"font": "sans-serif", "fontSize": 15}}
+}
